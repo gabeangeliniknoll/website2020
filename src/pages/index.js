@@ -6,7 +6,7 @@ import Image from "../components/image"
 import SEO from "../components/seo"
 
 // pdf iles
-import CV from "../components/career/CV"
+import CV from "../components/CV"
 
 const IndexPage = () => (
   <Layout>

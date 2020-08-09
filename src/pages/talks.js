@@ -2,14 +2,17 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-// pdfs 
-import Periodicity from "../components/talks/periodicity"
-import Loday from "../components/talks/loday"
-import SnowFlake from "../components/talks/snowflake"
-import ProObjects from "../components/talks/proobjects"
-import Stacks from "../components/talks/stacks"
-import Fundamental from "../components/talks/fundamental"
-import Nilpotence from "../components/talks/nilpotence"
+// PDF component
+import PDF from "../components/pdf"
+
+// pdfs
+import Loday from "../static/Lodayfunctorcats.pdf"  
+import Fundamental from "../static/FTKthytalk.pdf"
+import Nilpotence from "../static/nilptalk.pdf"
+import Periodicity from "../static/periodicityinK-theory.pdf"
+import ProObjects from "../static/pro-object.pdf"
+import SnowFlake from "../static/snowflake.pdf"
+import Stacks from "../static/stacks.pdf"
 
 const Talks = () => (
   <Layout>
@@ -58,8 +61,10 @@ const Talks = () => (
         <p>Periodic Phenomena in iterated algebraic K-theory of finite fields<br>
           </br><font size="3">Topology Seminar, Notre Dame, December 2016</font></p>
       <h4>November</h4>
-        <p>Periodicity in iterated algebraic K-theory [<Periodicity />]<br>
-          </br><font size="3">Geometry and Topology Seminar, Michigan State University, November 2016</font></p>
+        <p>
+          Periodicity in iterated algebraic K-theory [<PDF pdfFile={Periodicity} displayText='pdf' />]<br/>
+          <font size="3">Geometry and Topology Seminar, Michigan State University, November 2016</font>
+        </p>
         <p>Red-shift type phenomena in iterated algebraic K-theory of finite fields<br>
           </br><font size="3">Topology Seminar, Indiana University, November 2016</font></p>
       <h4>March</h4>
@@ -89,7 +94,7 @@ const Talks = () => (
         <p>Periodicity in iterated algebraic K-theory [<a href="https://mediathek.uni-regensburg.de/playthis/5976eb8140f193.32122072">Video</a>]<br>
 				  </br><font size="3">Transatlantic Transchromatic Homotopy theory conference, University of Regensberg, June 2017</font></p>
       <h4>April</h4>
-        <p>Loday construction in functor categories [<Loday />]<br>
+        <p>Loday construction in functor categories [<PDF pdfFile={Loday} displayText='pdf' />]<br>
 				  </br><font size="3">AMS Sectional, Indiana University, April 2017</font></p>
     <h3>2015</h3>
       <h4>April</h4>
@@ -112,27 +117,27 @@ const Talks = () => (
         <p>The Hopf map in classical mechanics<br>
 				  </br><font size="3">Math Club, University of Kentucky, November 2017</font></p>
     <h3>2014</h3>
-        <p>The Topologist's Snowflake and the Rose [<SnowFlake />]<br>
+        <p>The Topologist's Snowflake and the Rose [<PDF pdfFile={SnowFlake} displayText='pdf' />]<br>
 				  </br><font size="3">Undergraduate Seminar, Kalamazoo College, February 2014</font></p>
 	<h2>Expository Talks:</h2>
     <h4>2018</h4>
       <h3>May</h3>
-			  <p>Pro-objects in infinity categories [<ProObjects />] <br>
+			  <p>Pro-objects in infinity categories [<PDF pdfFile={ProObjects} displayText='pdf' />]<br>
 				  </br><font size="3">Vitamin K1: Kerz-Strunk-Tamme's Proof of Weibel's Conjecture, University of Illinois at Chicago, May 2018</font></p>
       <h4>2017</h4>
         <h3>May</h3>
     	    <p>On the structure of the map from MU to BP [<a href="http://math.mit.edu/conferences/talbot/2017/talbot-notes-2017.pdf">pdf</a>] <br> 
 				    </br><font size="3">Talbot Workshop on Obstruction Theory, May 2017 (Notes compiled by <a href="https://math.northwestern.edu/~ebelmont/">Eva Belmont</a> and <a href="https://sanathdevalapurkar.github.io/">Sanath Devalapurkar)</a></font></p>
 			  <h3>August</h3>
-          <p>Stacks and Homotopy Theory [<Stacks />]<br>
+          <p>Stacks and Homotopy theory [<PDF pdfFile={Stacks} displayText='pdf' />]<br>
 				    </br><font size="3">West Coast Algebraic Topology Summer School 2016, University of Oregon (joint with <a href="https://math.northwestern.edu/~ebelmont/">Eva Belmont</a>)</font></p>
       <h4>2015</h4>
         <h3>July</h3>
-          <p>Fundamental Theorems of Algebraic K-theory [<Fundamental /> ]<br>
+          <p>Fundamental Theorems of Algebraic K-theory [<PDF pdfFile={Fundamental} displayText='pdf' />]<br>
 				    </br><font size="3">European Talbot Workshop 2015, Klosters, Switzerland</font></p>
       <h4>2014</h4>
         <h3>July</h3>
-			    <p>On the paper "Nilpotence and Stable Homotopy Theory II" [<Nilpotence />]<br>
+			    <p>On the paper "Nilpotence and Stable Homotopy Theory II" [<PDF pdfFile={Nilpotence} displayText='pdf' />]<br>
 				    </br><font size="3">MSRI Summer School: Algebraic Topology 2014, Guanajuato, Mexico</font></p>
 
   </Layout>
