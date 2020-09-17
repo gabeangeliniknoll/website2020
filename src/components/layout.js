@@ -8,16 +8,16 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
-import { Link } from "gatsby"
+// import { Link } from "gatsby"
 
 import Header from "./header"
 import "./layout.css"
 
-const ListLink = props => (
-  <li style={{ display: `inline-block`, marginRight: `1rem` }}>
-    <Link to={props.to}>{props.children}</Link>
-  </li>
-)
+// const ListLink = props => (
+//   <li style={{ display: `inline-block`, marginRight: `1rem` }}>
+//     <Link to={props.to}>{props.children}</Link>
+//   </li>
+// )
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -40,18 +40,12 @@ const Layout = ({ children }) => {
           padding: `0 1.0875rem 1.45rem`,
         }}
       >
-      <ul style={{ listStyle: `none`, float: `right`}}>
-        <ListLink to="/">Home</ListLink>
-        <ListLink to="/research/">Research</ListLink>
-        <ListLink to="/teaching/">Teaching</ListLink>
-        <ListLink to="/talks/">Talks</ListLink>
-      </ul>
         <main>{children}</main>
-        <footer>
+        {/* <footer>
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
+        </footer> */}
       </div>
     </>
   )

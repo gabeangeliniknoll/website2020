@@ -1,7 +1,7 @@
 page: Research
-pageDescription: My work focuses on how algebraic K-theory interacts with periodicity in the homotopy groups of spheres. Specifically, I do computations of approximations of algebraic K-theory of structured ring spectra and analyze how chromatic complexity behaves in this context. I also work on developing tools for doing trace methods computations. More recently, I have been working on approximations to algebraic K-theory of ring spectra with anti-involution with the long term goal of seeing how chromatic homotopy theory interacts with algebraic K-theory of ring spectra with anti-involution. For more information about my research, see my 
+pageDescription: My work focuses on invariants of ring spectra that shed light on interactions with arithmetic and geometry. For more information about my research, see my 
 sections: 
-    - title: Publications
+    - title: Published papers
       papers: 
         - title: A May-type spectral sequence for topological Hochschild homology
           description: We construct a spectral sequence for higher topological Hochschild homology associated to a multiplicative filtration of a commutative ring spectrum. In particular, we show that the Whitehead tower of a commutative ring spectrum can be built as a multiplicative filtered commutative ring spectrum. We use this spectral sequence to give a bound on topological Hochshcild homology of a connective commutative ring spectrum.
@@ -18,11 +18,12 @@ sections:
             - display: published
               url: https://msp.org/agt/2018/18-5/p03.xhtml
               body:
-               
-          # info: 
-            # - Journal: Algebraic & Geometric Topology
-              # year: 2018
-    - title: Preprints under review
+          journal: 
+            - name: Algebraic & Geometric Topology
+              url: https://msp.org/agt/2020/20-4/
+              sep: "."
+              start: "Published in "
+    - title: Submitted papers
       papers: 
         - title: Commuting unbounded homotopy limits with Morava K-theory
           description: We give conditions for Morava K-theory to commute with certain homotopy limits with an eye towards applications to topoligical periodic cyclic homology and algebraic K-theory. As our application, we a version of Mitchell's theorem for truncated Brown-Peterson spectra.
@@ -72,7 +73,7 @@ sections:
               url: https://arxiv.org/abs/1612.00548
               body:
                 - {_uid: BUY6Drn9e5,paper: "thhj",displayText: "pdf"}
-    - title: In preparation
+    - title: Papers in preparation
       papers:
         - title: Topological Hochschild homology of the second truncated Brown-Peterson spectrum
           description: We compute topological Hochschild homology of the second truncated Brown-Peterson spectrum with coefficients in the first truncated Brown-Peterson spectrum.
@@ -85,8 +86,8 @@ sections:
               url: https://evahoening.netlify.app
               sep: "."
               start: ""
-        - title: Real Topological Hochschild homology and Witt vectors for noncommutative rings with anti-involution
-          description: We give a description of the Mackey functor homotopy groups of Real topological Hochschild homology of noncommutative rings with anti-involution in terms of Witt vectors for rings with anti-involution.
+        - title: Real Topological Hochschild homology, Witt vectors, and norms
+          description: We give a description of the Mackey functor homotopy groups of Real topological Hochschild homology of noncommutative rings with anti-involution in terms of Witt vectors for rings with anti-involution. We also provide a Hill-Hopkins-Ravenel norm model for Real topological Hochshild homology.
           coauthors:  
             - name: Teena Gerhardt
               url: https://users.math.msu.edu/users/teena/Home.html
@@ -96,10 +97,11 @@ sections:
               url: https://www.math.ucla.edu/~mikehill/
               sep: "." 
               start: ""
-    - title: Unpublished
+    - title: Expository papers
       papers:
         - title: Maps of simplicial spectra whose realizations are cofibrations
-          description: This paper provides user friendly conditions for checking when a map of simplicial spectra induces a cofibration on geometric realizations.
+          description: This paper provides user friendly conditions for checking when a map of simplicial spectra induces a cofibration on geometric realizations. 
+          # The main result of this paper is used our joint paper ``A May-type spectral sequence for topological Hochschild homology,'' so we include it for completeness. 
           coauthors:  
             - name: Andrew Salch
               url: https://clasprofiles.wayne.edu/profile/dy8211
@@ -124,10 +126,10 @@ sections:
               url: ""
               body: 
                  - {_uid: BUY6Drn9e7,paper: "masters",displayText: "pdf"}
-        - title: Auslander-Reiten quiver of the category of unstable modules over a sub-Hopf algebra of the Steenrod algebra 
-          description: I provide partial results about the Auslander-Reiten quiver associated to the category of unstable E(1)-modules where E(1) is the sub-Hopf algebra of the Steenrod algebra generated by the first two Milnor primitives. This was summer research project completed under the direction of Andrew Salch. 
-          links:
-            - display: ""
-              url: ""
-              body:
-                 - {_uid: BUY6Drn9e8,paper: "quiver",displayText: "pdf"}
+        # - title: Auslander-Reiten quiver of the category of unstable modules over a sub-Hopf algebra of the Steenrod algebra 
+        #   description: I provide partial results about the Auslander-Reiten quiver associated to the category of unstable E(1)-modules where E(1) is the sub-Hopf algebra of the Steenrod algebra generated by the first two Milnor primitives. This was summer research project completed under the direction of Andrew Salch. 
+        #   links:
+        #     - display: ""
+        #       url: ""
+        #       body:
+        #          - {_uid: BUY6Drn9e8,paper: "quiver",displayText: "pdf"}

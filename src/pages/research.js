@@ -43,6 +43,12 @@ const ResearchTwo = () => (
                 </>
               ))
               : null } <br /> 
+            {p.journal ? p.journal.map((c, i) => (
+                <>
+                {`${c.start}`}<a href={`${c.url}`} target="_blank" rel="noopener noreferrer">{`${c.name}`}</a><span>{c.sep} </span>
+                </>
+              ))
+              : null } <br /> 
           </li>
         )) : null }
         </ul>

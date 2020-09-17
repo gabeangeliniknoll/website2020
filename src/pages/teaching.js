@@ -13,7 +13,7 @@ const Teaching = () => (
             </br>&ensp; Primary instructor of a course on algebraic K-theory for master's students. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_So2020.html">Coming soon.</a> </p>
           <p><b>19223811 Forschungsmodul Topologie:</b> Equivariant stable homotopy theory<br>
             </br>&ensp; Organizing with Prof. Dr. Elmar Vogt. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_So2020.html">Coming soon.</a></p>
-          <p><b>19209716 Forschungsseminar Geometrie und Topologie: TBD</b><br>
+          <p><b>19209716 Forschungsseminar Geometrie und Topologie:</b> Equivariant higher category theory<br>
 		        </br>&ensp; Organizing with Prof. Dr. Holger Reich. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020So-geom.html">Coming soon.</a></p>
 	  <h2>Past:</h2>  
       <h3>Freie Universit<span>&#228;</span>t Berlin</h3>
