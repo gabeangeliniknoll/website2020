@@ -1,8 +1,20 @@
 page: Research
 pageDescription: My work focuses on invariants of ring spectra that shed light on interactions with arithmetic and geometry. For more information about my research, see my 
 sections: 
-    - title: Published papers
+    - title: Published and Accepted papers
       papers: 
+        - title: On topological Hochschild homology of the K(1)-local sphere  
+          description: I compute mod (p,v_1) topological Hochschild homology of the connective cover of the K(1)-local sphere spectrum using the topological Hochschild-May spectral sequence.
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/1612.00548
+              body:
+                - {_uid: BUY6Drn9e5,paper: "thhj",displayText: "pdf"}
+          journal: 
+            - name: Journal of Topology
+              url: https://londmathsoc.onlinelibrary.wiley.com/journal/17538424
+              sep: "."
+              start: "Accepted for publication in "
         - title: A May-type spectral sequence for topological Hochschild homology
           description: We construct a spectral sequence for higher topological Hochschild homology associated to a multiplicative filtration of a commutative ring spectrum. In particular, we show that the Whitehead tower of a commutative ring spectrum can be built as a multiplicative filtered commutative ring spectrum. We use this spectral sequence to give a bound on topological Hochshcild homology of a connective commutative ring spectrum.
           coauthors: 
@@ -23,20 +35,9 @@ sections:
               url: https://msp.org/agt/2020/20-4/
               sep: "."
               start: "Published in "
+   
     - title: Submitted papers
       papers: 
-        - title: Commuting unbounded homotopy limits with Morava K-theory
-          description: We give conditions for Morava K-theory to commute with certain homotopy limits with an eye towards applications to topoligical periodic cyclic homology and algebraic K-theory. As our application, we a version of Mitchell's theorem for truncated Brown-Peterson spectra.
-          coauthors:  
-            - name: Andrew Salch
-              url: https://clasprofiles.wayne.edu/profile/dy8211
-              sep: "." 
-              start: "Joint with "
-          links:
-            - display: arXiv
-              url: https://arxiv.org/abs/2003.03510
-              body:
-                 - {_uid: BUY6Drn9e2,paper: "limits",displayText: "pdf"}
         - title: Chromatic complexity of algebraic K-theory of y(n)
           description: We compute Morava K-theory of topological periodic cyclic homology and topological negative cyclic homology of the Thom spectra y(n). This gives evidence for a version of the red-shift conjecture for topological periodic cyclic homology at all chromatic heights.
           coauthors: 
@@ -49,12 +50,24 @@ sections:
               url: https://arxiv.org/abs/1908.09164
               body:
                  - {_uid: BUY6Drn9e3,paper: "kyn",displayText: "pdf"}
+        - title: Commuting unbounded homotopy limits with Morava K-theory
+          description: We give conditions for Morava K-theory to commute with certain homotopy limits with an eye towards applications to topoligical periodic cyclic homology and algebraic K-theory. As our application, we a version of Mitchell's theorem for truncated Brown-Peterson spectra.
+          coauthors:  
+            - name: Andrew Salch
+              url: https://clasprofiles.wayne.edu/profile/dy8211
+              sep: "." 
+              start: "Joint with "
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2003.03510
+              body:
+                 - {_uid: BUY6Drn9e2,paper: "limits",displayText: "pdf"}
         - title: Detecting the beta family in iterated algebraic K-theory of finite fields
           description: I prove that the beta family is detected in iterated algebraic K-theory of finite fields and consequently iterated algebraic K-theory of the integers. This gives evidence for a higher chromatic height version of the Lichtenbaum conjecture, which I call the Greek-letter-family red-shift conjecture, after the red-shift conjecture of Ausoni-Rognes.
           links:
             - display: arXiv
               url: https://arxiv.org/abs/1612.00548
-        - title: The Segal Conjecture for Topological Hochschild Homology of the Ravenel spectra X(n) and T(n)
+        - title: The Segal Conjecture for Topological Hochschild Homology of Ravenel spectra
           description: We solve the homotopy limit problem for topological Hochschild homology of Ravenel's spectra X(n) with respect to all cyclic groups of order a power of p. This implies that, after p-completion, topological negative cyclic homology and topological periodic cyclic homology of X(n) are homotopy equivalent.
           coauthors:  
             - name: J.D. Quigley
@@ -66,13 +79,6 @@ sections:
               url: https://arxiv.org/abs/1705.03343
               body:
                  - {_uid: BUY6Drn9e4,paper: "segal",displayText: "pdf"}
-        - title: On topological Hochschild homology of the K(1)-local sphere  
-          description: I compute mod (p,v_1) topological Hochschild homology of the connective cover of the K(1)-local sphere spectrum using the topological Hochschild-May spectral sequence.
-          links:
-            - display: arXiv
-              url: https://arxiv.org/abs/1612.00548
-              body:
-                - {_uid: BUY6Drn9e5,paper: "thhj",displayText: "pdf"}
     - title: Papers in preparation
       papers:
         - title: Topological Hochschild homology of the second truncated Brown-Peterson spectrum

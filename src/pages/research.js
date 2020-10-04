@@ -12,7 +12,7 @@ import YAMLData from "../content/research.yml"
 import ResearchStatement from "../components/research"
 // import THHMay from "../static/thhmayssfinal.pdf"
 
-const ResearchTwo = () => (
+const Research = () => (
   <Layout>
     <SEO title="Research" />
     <h1>{YAMLData.page}</h1>
@@ -37,18 +37,19 @@ const ResearchTwo = () => (
             </span> 
             </h4>
             <p>{p.description}</p>
+            {p.journal ? p.journal.map((c, i) => (
+                <>
+                {`${c.start}`}<a href={`${c.url}`} target="_blank" rel="noopener noreferrer">{`${c.name}`}</a><span>{c.sep} </span>
+                </>
+              ))
+              : null } 
             {p.coauthors ? p.coauthors.map((c, i) => (
                 <>
                 {`${c.start}`}<a href={`${c.url}`} target="_blank" rel="noopener noreferrer">{`${c.name}`}</a><span>{c.sep} </span>
                 </>
               ))
               : null } <br /> 
-            {p.journal ? p.journal.map((c, i) => (
-                <>
-                {`${c.start}`}<a href={`${c.url}`} target="_blank" rel="noopener noreferrer">{`${c.name}`}</a><span>{c.sep} </span>
-                </>
-              ))
-              : null } <br /> 
+          
           </li>
         )) : null }
         </ul>
@@ -57,4 +58,4 @@ const ResearchTwo = () => (
   </Layout>
 )
 
-export default ResearchTwo
+export default Research

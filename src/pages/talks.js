@@ -18,26 +18,26 @@ const Talks = () => (
   <Layout>
     <SEO title="Talks" />
     <h1>Talks</h1>
-    <h2>Seminar talks</h2>
+    <h2>Invited Seminar talks</h2>
     <h3>2020</h3>
     <h4>Rescheduled due to COVID-19 outbreak TBD</h4>
       <p>Morava K-theory of algebraic K-theory and topological periodic cyclic homology<br>
-        </br><font size="3">Topology Seminar, Universitaet Hamburg </font></p>
+        </br><font size="3">Topology Seminar, Universit<span>&#228;</span>t Hamburg </font></p>
 			<p>Periodicity in iterated algebraic K-theory of finite fields<br>
         </br><font size="3">Geometry and Topology Seminar, University of Pennsilvania</font></p>
     <h4>April</h4>
 			<p>Morava K-theory of algebraic K-theory and topological periodic cyclic homology<br>
-				</br><font size="3">Topology Seminar, EPFL, April 2020</font></p>
+				</br><font size="3">Topology Seminar, <span>&#201;</span>cole polytechnique f<span>&#233;</span>d<span>&#233;</span>rale de Lausanne , April 2020</font></p>
     <h4>March</h4>
       <p>Morava K-theory of algebraic K-theory and topological periodic cyclic homology<br>
 				</br><font size="3">Topology Seminar, Massachusetts Institute of Technology</font></p>
     <h4>January</h4>
 			<p>Chromatic height and topological periodic cyclic homology<br>
-			  </br><font size="3">Topology Seminar, Bergische Universitaet Wuppertal, January 2020</font></p>
+			  </br><font size="3">Topology Seminar, Bergische Universit<span>&#228;</span>t Wuppertal, January 2020</font></p>
     <h3>2019</h3>
       <h4>May</h4>
         <p>Transchromatic behavior in algebriac K-theory and future directions<br>
-				  </br><font size="3">Topology Seminar, Freie Universitaet Berlin, May 2019</font></p>
+				  </br><font size="3">Topology Seminar, Freie Universit<span>&#228;</span>t Berlin, May 2019</font></p>
         <p>Iterated algebraic K-theory of the integers and higher Lichtenbaum-Quillen conjectures<br>
 			   </br><font size="3">Algebraic Topology Seminar, University of California, Los Angeles, May 2019</font></p>
       <h4>April</h4>
@@ -73,7 +73,7 @@ const Talks = () => (
       <h4>February</h4>
         <p>On mod (p,v_1) homotopy of THH of the K(1)-local sphere and its homotopy fixed points<br>
           </br><font size="3">K-theory Seminar, Ohio State University, February 2016</font></p>
-	<h2>Conference Talks:</h2>
+	<h2>Invited Conference Talks</h2>
     <h3>2020</h3>
       <h4>March</h4>
         <p>Equivariant Witt vectors, Real topological Hochschild homology, and norms<br>
@@ -90,12 +90,14 @@ const Talks = () => (
       <h4>November</h4>
         <p>Evidence for the Greek letter family red-shift conjecture<br>
 				  </br><font size="3">Midwest Topology Conference, Wayne State University, November 2017</font></p>
-      <h4>June</h4>
-        <p>Periodicity in iterated algebraic K-theory [<a href="https://mediathek.uni-regensburg.de/playthis/5976eb8140f193.32122072">Video</a>]<br>
-				  </br><font size="3">Transatlantic Transchromatic Homotopy theory conference, University of Regensberg, June 2017</font></p>
       <h4>April</h4>
         <p>Loday construction in functor categories [<PDF pdfFile={Loday} displayText='pdf' />]<br>
 				  </br><font size="3">AMS Sectional, Indiana University, April 2017</font></p>
+<h2>Contributed Conference Talks</h2>
+    <h3>2017</h3>
+      <h4>June</h4>
+        <p>Periodicity in iterated algebraic K-theory [<a href="https://mediathek.uni-regensburg.de/playthis/5976eb8140f193.32122072">Video</a>]<br>
+				  </br><font size="3">Transatlantic Transchromatic Homotopy theory conference, University of Regensberg, June 2017</font></p>
     <h3>2015</h3>
       <h4>April</h4>
       <p>Elements of higher chromatic height detected in circle homotopy fixed points <br>
@@ -107,7 +109,7 @@ const Talks = () => (
       <h4>March</h4>
         <p>Towards topological Hochschild homology of the algebraic K-theory spectrum of a finite field <br>
 			  	</br><font size="3">Graduate Student Geometry and Topology Conference, Univ. of Illinois Urbana Champaign, March 2015</font></p>
-  <h2>Talks for an Undergraduate Audience:</h2>
+  <h2>Invited Seminar Talks for an Undergraduate Audience</h2>
     <h3>2018</h3>
       <h4>June</h4>
         <p>The Fundamental Theorem of Algebra via Topology<br>
@@ -119,7 +121,7 @@ const Talks = () => (
     <h3>2014</h3>
         <p>The Topologist's Snowflake and the Rose [<PDF pdfFile={SnowFlake} displayText='pdf' />]<br>
 				  </br><font size="3">Undergraduate Seminar, Kalamazoo College, February 2014</font></p>
-	<h2>Expository Talks:</h2>
+	<h2>Select Expository Talks</h2>
     <h4>2018</h4>
       <h3>May</h3>
 			  <p>Pro-objects in infinity categories [<PDF pdfFile={ProObjects} displayText='pdf' />]<br>
