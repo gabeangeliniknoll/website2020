@@ -1,7 +1,7 @@
 page: Research
 pageDescription: My work focuses on invariants of ring spectra that shed light on interactions with arithmetic and geometry. For more information about my research, see my 
 sections: 
-    - title: Published and Accepted papers
+    - title: Published, Accepted, and Submitted Papers
       papers: 
         - title: On topological Hochschild homology of the K(1)-local sphere  
           description: I compute mod (p,v_1) topological Hochschild homology of the connective cover of the K(1)-local sphere spectrum using the topological Hochschild-May spectral sequence.
@@ -14,7 +14,7 @@ sections:
             - name: Journal of Topology
               url: https://londmathsoc.onlinelibrary.wiley.com/journal/17538424
               sep: "."
-              start: "Accepted for publication in "
+              start: "Accepted pending revisions in "
         - title: A May-type spectral sequence for topological Hochschild homology
           description: We construct a spectral sequence for higher topological Hochschild homology associated to a multiplicative filtration of a commutative ring spectrum. In particular, we show that the Whitehead tower of a commutative ring spectrum can be built as a multiplicative filtered commutative ring spectrum. We use this spectral sequence to give a bound on topological Hochshcild homology of a connective commutative ring spectrum.
           coauthors: 
@@ -35,9 +35,6 @@ sections:
               url: https://msp.org/agt/2020/20-4/
               sep: "."
               start: "Published in "
-   
-    - title: Submitted papers
-      papers: 
         - title: Chromatic complexity of algebraic K-theory of y(n)
           description: We compute Morava K-theory of topological periodic cyclic homology and topological negative cyclic homology of the Thom spectra y(n). This gives evidence for a version of the red-shift conjecture for topological periodic cyclic homology at all chromatic heights.
           coauthors: 
@@ -103,7 +100,7 @@ sections:
               url: https://www.math.ucla.edu/~mikehill/
               sep: "." 
               start: ""
-    - title: Expository papers
+    - title: Expository Papers 
       papers:
         - title: Maps of simplicial spectra whose realizations are cofibrations
           description: This paper provides user friendly conditions for checking when a map of simplicial spectra induces a cofibration on geometric realizations. 
@@ -138,4 +135,4 @@ sections:
         #     - display: ""
         #       url: ""
         #       body:
-        #          - {_uid: BUY6Drn9e8,paper: "quiver",displayText: "pdf"}
+        #           - {_uid: BUY6Drn9e8,paper: "quiver",displayText: "pdf"}
