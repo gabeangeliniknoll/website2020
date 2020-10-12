@@ -1,5 +1,5 @@
 import React from "react"
-import CV from "../static/CV.pdf" // Tell webpack this JS file uses this pdf
+import CV from "../static/CV-angeliniknoll.pdf" // Tell webpack this JS file uses this pdf
 
 const IndexPage = () => (
   <>
