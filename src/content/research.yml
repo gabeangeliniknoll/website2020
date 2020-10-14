@@ -64,6 +64,8 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/1612.00548
+              body:
+                - {_uid: BUY6Drn9e3,paper: "beta",displayText: "pdf"}
         - title: The Segal Conjecture for Topological Hochschild Homology of Ravenel spectra
           description: We solve the homotopy limit problem for topological Hochschild homology of Ravenel's spectra X(n) with respect to all cyclic groups of order a power of p. This implies that, after p-completion, topological negative cyclic homology and topological periodic cyclic homology of X(n) are homotopy equivalent.
           coauthors:  
@@ -98,6 +100,17 @@ sections:
               start: "Joint with "
             - name: Mike Hill
               url: https://www.math.ucla.edu/~mikehill/
+              sep: "." 
+              start: ""
+        - title: Topological crossed simplicial homology
+          description: We give a new construction of topological crossed simplicial group, which gives a combinatorial approach to certain Hill-Hopkins-Ravenel norms for compact Lie groups. 
+          coauthors:  
+            - name: Mona Merling
+              url: https://www.math.upenn.edu/~mmerling/
+              sep: " and" 
+              start: "Joint with "
+            - name: Maximilien Peroux
+              url: https://www.maximilienperoux.com/
               sep: "." 
               start: ""
     - title: Expository Papers 
