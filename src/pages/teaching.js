@@ -13,8 +13,8 @@ const Teaching = () => (
             </br>Primary instructor and curriculum designer for a course on algebraic K-theory for graduate students. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/2020ws_Algebraic-K-Theory.html"> Algebraic K-Theory</a>. </p>
           <p><b>19223811 Forschungsmodul Topologie:</b> Equivariant stable homotopy theory<br>
             </br>Organizing with Prof. Dr. Elmar Vogt. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_ws2020.html">Forschungsmodul: Topologie Winter 2020</a>.</p>
-          <p><b>19209716 Forschungsseminar Geometrie und Topologie:</b> Equivariant higher category theory<br>
-		        </br>Organizing with Prof. Dr. Holger Reich. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020WS-geom.html">Forschungsseminar Geometrie und Topologie Winter 2020</a>.</p>
+          <p><b>19209716 Forschungsseminar Geometrie und Topologie:</b> Higher Symmetry<br>
+		        </br>Prof. Dr. Holger Reich. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020WS-geom.html">Forschungsseminar Geometrie und Topologie Winter 2020</a>.</p>
 	  <h2>Past:</h2>  
       <h3>Freie Universit<span>&#228;</span>t Berlin</h3>
         <h4>Summer 2020</h4>
@@ -23,14 +23,14 @@ const Teaching = () => (
           <p><b>19223811 Forschungsmodul Topologie</b> Homology and Cohomology of Groups at Freie Universit<span>&#228;</span> Berlin.<br>
 			      </br>Co-organized with Prof. Dr. Elmar Vogt. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_So2020.html">Forschungsmodul: Topologie Summer 2020</a></p>
           <p><b>19209716 Forschungsseminar Geometrie und Topologie:</b> K-theory of pullbacks at Freie Universit<span>&#228;</span>t Berlin. <br>
-			      </br>Co-organized with Prof. Dr. Holger Reich. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020So-geom.html">Forschungsseminar Geometrie und Topologie Summer 2020</a></p>
+			      </br>Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020So-geom.html">Forschungsseminar Geometrie und Topologie Summer 2020</a></p>
         <h4>Winter 2019/20</h4> 
           <p><b>19206201 Basismodul: Topologie II</b> at Freie Universit<span>&#228;</span>t Berlin.<br>
 			      </br>Led exercise sessions for Prof. Dr. Holger Reich. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2019ws_Topologie2.html">Basismodul: Topologie II Winter 2019/2020</a></p>
           <p><b>19217011 Seminar zur Topologie</b> Simplicial Methods in Topology at Freie Universit<span>&#228;</span>t Berlin.<br>
 			      </br>Co-organizing with Prof. Dr. Elmar Vogt. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/2019ws_S_Topologie.html">Seminar zur Topologie Winter 2019/2020</a></p>
           <p><b>Forschungsseminar Geometrie und Topologie</b> Chromatic homotopy theory at Freie Universit<span>&#228;</span>t Berlin. <br>
-            </br>Co-organizing with Prof. Dr. Holger Reich. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019WS-geom.html">Forschungsseminar Geometrie und Topologie Winter 2019/2020</a></p>
+            </br>Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019WS-geom.html">Forschungsseminar Geometrie und Topologie Winter 2019/2020</a></p>
       <h3>Michigan State University</h3>
         <h4>Winter 2019</h4>
           <p><b>MTH 961: Algebraic Topology II</b> at Michigan State University <br>
