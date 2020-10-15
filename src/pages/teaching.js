@@ -14,7 +14,7 @@ const Teaching = () => (
           <p><b>19223811 Forschungsmodul Topologie:</b> Equivariant stable homotopy theory<br>
             </br>Organizing with Prof. Dr. Elmar Vogt. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_ws2020.html">Forschungsmodul: Topologie Winter 2020</a>.</p>
           <p><b>19209716 Forschungsseminar Geometrie und Topologie:</b> Higher Symmetry<br>
-		        </br>Prof. Dr. Holger Reich. Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020WS-geom.html">Forschungsseminar Geometrie und Topologie Winter 2020</a>.</p>
+		        </br>Website: <a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020WS-geom.html">Forschungsseminar Geometrie und Topologie Winter 2020</a>.</p>
 	  <h2>Past:</h2>  
       <h3>Freie Universit<span>&#228;</span>t Berlin</h3>
         <h4>Summer 2020</h4>
