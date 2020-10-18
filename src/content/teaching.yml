@@ -1,0 +1,138 @@
+page: Teaching
+section:
+  - title: Current
+    university: 
+      - title: Freie Universität Berlin
+        courses: 
+          - semester: Winter 2020/21
+            class: 
+              - title: "Algebraic K-Theory"
+                description: A course on algebraic K-theory, fundamental theorems, and applications for graduate students.
+                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2020ws_Algebraic-K-Theory.html
+                urldisplay: Course Website
+              - title: "Forschungsmodul Topologie: Equivariant stable homotopy theory"
+                description: A seminar course introducing equivariant stable homotopy theory. Organizing with Prof. Dr. Elmar Vogt.
+                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_ws2020.html
+                urldisplay: Course Website
+              - title: "Forschungsseminar Geometrie und Topologie: Higher Symmetry"
+                description: A research seminar on equivariant homotopy theory and higher categories.
+                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020WS-geom.html
+                urldisplay: Course Website
+  - title: Past 
+    university: 
+      - title: Freie Universität Berlin
+        courses:
+          - semester: Summer 2020
+            class: 
+              - title: "Aufbaumodul: Topologie III"
+                description: Led exercise sessions for Prof. Dr. Holger Reich.
+                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2020so_Topologie3.html
+                urldisplay: Course Website
+              - title: "Forschungsmodul Topologie: Homology and Cohomology of Groups"
+                description: A seminar course introducing group cohomology. Organized with Prof. Dr. Elmar Vogt.
+                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_So2020.html
+                urldisplay: Course Website
+              - title: "Forschungsseminar Geometrie und Topologie: K-theory of pullbacks"
+                description: A research seminar on advances in algebraic K-theory of pullbacks of rings.
+                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019WS-geom.html
+                urldisplay: Course Website
+          - semester: Winter 2019/20
+            class: 
+              - title: "Basismodul: Topologie II"
+                description: Led exercise sessions for Prof. Dr. Holger Reich.
+                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/_Topologie/2019ws_Topologie2.html
+                urldisplay: Course Website
+              - title: "Seminar zur Topologie: Simplicial Methods in Topology"
+                description: Co-organizing with Prof. Dr. Elmar Vogt. 
+                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2019ws_S_Topologie.html
+                urldisplay: Course Website  
+              - title: "Forschungsseminar Geometrie und Topologie: Chromatic homotopy theory"
+                description: A research seminar on chromatic homotopy theory from an algebraic geometry perspective. 
+                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2019WS-geom.html
+                urldisplay: Course Website
+      - title: Michigan State University
+        courses: 
+          - semester: Spring 2019
+            class: 
+              - title: Algebraic Topology II
+                description: Curriculum designer and instructor for a course covering homotopy theory, spectral sequences, and characteristic classes.
+                url: ""
+                urldisplay: ""
+          - semester: Fall 2018
+            class: 
+              - title: Calculus I
+                description: A first year calculus course covering differential calculus in one variable.
+                url: ""
+                urldisplay: ""
+          - semester: Spring 2018
+            class: 
+              - title: Abstract Algebra I and Number Theory 
+                description: A first course in basic number theory and ring theory.
+                url: ""
+                urldisplay: ""
+          - semester: Fall 2017
+            class:
+              - title: Business Calculus Section 001
+                description: A first course in calculus for Business and Life Sciences majors
+                url: ""
+                urldisplay: ""
+              - title: Business Calculus Section 013
+                description: A first course in calculus for Business and Life Sciences majors
+                url: ""
+                urldisplay: ""
+      - title: Wayne State University
+        courses: 
+          - semester: Fall 2015
+            class:
+              - title: College Algebra
+                description: An introductory course in college algebra and trigonometry.
+                url: ""
+                urldisplay: ""
+          - semester: Winter 2015
+            class:
+              - title: College Algebra
+                description: An introductory course in college algebra and trigonometry.
+                url: ""
+                urldisplay: ""
+          - semester: Winter 2014
+            class: 
+              - title: College Algebra
+                description: An introductory course in college algebra and trigonometry.
+                url: ""
+                urldisplay: ""
+          - semester: Fall 2013
+            class: 
+              - title: Elementary Functions
+                description: A course to prepare students for calculus.
+                url: ""
+                urldisplay: ""
+          - semester: Summer 2013
+            class: 
+              - title: Elementary Statistics
+                description: An introductory course in probabilty and statistics.
+                url: ""
+                urldisplay: ""
+              - title: Math in Today's World
+                description: A quantitative literacy course on probabilty, statistics, and voting methods with real world applications.
+                url: ""
+                urldisplay: ""
+          - semester: Winter 2013
+            class: 
+              - title: Elementary Functions
+                description: A course to prepare students for calculus.
+                url: ""
+                urldisplay: ""
+          - semester: Fall 2012
+            class: 
+              - title: Elementary Functions
+                description: A course to prepare students for calculus.
+                url: ""
+                urldisplay: ""
+          - semester: Summer 2012
+            class: 
+              - title: Math in Today's World
+                description: A quantitative literacy course on probabilty, statistics, and voting methods with real world applications.
+                url: ""
+                urldisplay: ""
+
+  

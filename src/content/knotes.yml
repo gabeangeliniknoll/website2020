@@ -1,0 +1,50 @@
+page: Algebraic K-theory
+pageDescription: This is the course website for 
+url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2020ws_Algebraic-K-Theory.html
+urlText: 19243901 Algebraic K-Theory 
+sections: 
+  - title: Course Notes
+    lectures: 
+      - title: "Lecture 1: The Grothendieck group and the Whitehead group"
+        links:
+          - body:
+            - {_uid: KTY6Drn9e1,paper: "lecture1",displayText: "pdf"}
+      - title: "Lecture 2: The +-construction"
+        links:
+          - body:
+            - {_uid: KTY6Drn9e2,paper: "lecture2",displayText: "pdf"}
+      - title: "Lecture 3: Algebraic K-theory of finite fields"
+        links:
+          - body:
+            - {_uid: KTY6Drn9e3,paper: "lecture3",displayText: "pdf"}
+      - title: "Lecture 4: Simplicial Methods"
+        links:
+          - body:
+            - {_uid: KTY6Drn9e4,paper: "lecture4",displayText: "pdf"}
+      - title: "Lecture 5: The S.-construction"
+        links:
+          - body:
+            - {_uid: KTY6Drn9e5,paper: "lecture5",displayText: "pdf"}
+      - title: "Lecture 6: Algebraic K-theory of spaces"
+        links:
+          - body:
+            - {_uid: KTY6Drn9e6,paper: "lecture6",displayText: "pdf"}
+      - title: "Lecture 7: Additivity"
+        links:
+          - body:
+            - {_uid: KTY6Drn9e7,paper: "lecture7",displayText: "pdf"}
+      - title: "Lecture 8: Localization"
+        links:
+          - body:
+            - {_uid: KTY6Drn9e8,paper: "lecture8",displayText: "pdf"}
+      - title: "Lecture 9: Applications"
+        links:
+          - body:
+            - {_uid: KTY6Drn9e9,paper: "lecture9",displayText: "pdf"}
+      - title: "Lecture 9: Special Topics"
+        links:
+          - body:
+            - {_uid: KTY6Drn9e10,paper: "lecture10",displayText: "pdf"}
+
+
+
