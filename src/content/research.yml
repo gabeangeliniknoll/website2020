@@ -34,7 +34,7 @@ sections:
             - name: Journal of Topology
               url: https://londmathsoc.onlinelibrary.wiley.com/journal/17538424
               sep: "."
-              start: "Accepted pending revisions in "
+              start: "Accepted pending minor revisions in "
         - title: Chromatic complexity of algebraic K-theory of y(n)
           description: We compute Morava K-theory of topological periodic cyclic homology and topological negative cyclic homology of the Thom spectra y(n). This gives evidence for a version of the red-shift conjecture for topological periodic cyclic homology at all chromatic heights.
           coauthors: 
@@ -102,8 +102,8 @@ sections:
               url: https://www.math.ucla.edu/~mikehill/
               sep: "." 
               start: ""
-        - title: Topological crossed simplicial homology
-          description: We give a new construction of topological crossed simplicial group, which gives a combinatorial approach to certain Hill-Hopkins-Ravenel norms for compact Lie groups. 
+        - title: Topological crossed simplicial group homology
+          description: We give a new construction of topological crossed simplicial group homology, which gives a combinatorial approach to certain Hill-Hopkins-Ravenel norms for compact Lie groups. 
           coauthors:  
             - name: Mona Merling
               url: https://www.math.upenn.edu/~mmerling/

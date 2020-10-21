@@ -11,8 +11,6 @@ import Lecture5 from "../components/CV"
 import Lecture6 from "../components/CV"
 import Lecture7 from "../components/CV";
 import Lecture8 from "../components/CV";
-import Lecture9 from "../components/CV";
-import Lecture10 from "../components/CV";
 
 // import CV from "../static/CV.pdf";
 // import Research from "../static/research_Angelini-Knoll.pdf";
@@ -26,8 +24,6 @@ const Lectures = {
    lecture6: Lecture6,
    lecture7: Lecture7,
    lecture8: Lecture8,
-   Lecture9: Lecture9,
-   Lecture10: Lecture10,
 };
 
 export default block => {

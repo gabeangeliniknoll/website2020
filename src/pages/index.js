@@ -1,5 +1,5 @@
 import React from "react"
-// import { Link } from "gatsby"
+import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import Image from "../components/image"
@@ -25,20 +25,23 @@ const IndexPage = () => (
     </div> 
     <div clear="both"></div>
     <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
-    <h2>Contact:</h2>
-    <h3>Email:</h3> 
-      <p>University Email: <a href="mailto:gabriel.angelini-knoll@fu-berlin.de">gabriel.angelini-knoll</a> (at fu-berlin dot de)<br>
-       </br>Personal Email: <a href="mailto:gabe.angelini.knoll@gmail.com">gabe.angelini.knoll</a> (at gmail dot com)</p>
+    <h2>Current Teaching</h2>
+      <p><b>19243901 Algebraic K-Theory</b><span> </span>Fundamental theorems and applications.<br></br><Link to="/algebraicktheory">Course Website.</Link></p>
+      <p><b>19223811 Forschungsmodul: Topologie </b> Equivariant stable homotopy theory.<br></br><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_ws2020.html">Course Website.</a></p>
+      <p><b>Forschungsseminar Geometrie und Topologie</b>Higher Symmetry.<br></br><a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020WS-geom.html">Course Website.</a></p>
+    <h2>Contact</h2>
     <h3>Pronouns:</h3>
       <p>He/Him/His</p>
+    <h3>Email:</h3> 
+      <p>University Email: <a href="mailto:gabriel.angelini-knoll@fu-berlin.de">gabriel.angelini-knoll</a> (at fu-berlin dot de)<br></br>Personal Email: <a href="mailto:gabe.angelini.knoll@gmail.com">gabe.angelini.knoll</a> (at gmail dot com)</p>
     <h3>Address:</h3> 
     <p>Arnimallee 7 (Etage 2) <br>    
       </br>Raum 215<br>  
       </br>14195 Berlin <br>
       </br>Germany</p>
-    <h2>Resources:</h2>
+    <h2>Resources</h2>
       <p> <a href=" https://www.europeanwomeninmaths.org/">European  Women in Mathematics</a>, <a href="https://awm-math.org/ ">Association for Women in Mathematics</a>, <a href="http://lgbtmath.org/index.html">Spectra</a>, <a href="https://s.wayne.edu/isaksen/algebraic-topology-journals/">Algebraic Topology Journals</a>, <a href="https://researchseminars.org/">Online Research Seminars</a>, <a href="http://mathmeetings.net/at-gt">MathMeetings</a>, <a href="https://faculty.math.illinois.edu/K-theory/Calendar/">K-theory Calender</a></p>
-      <h2>Collaborators:</h2>
+      <h2>Collaborators</h2>
       <p><a href="https://dlculver.github.io/">D. Culver</a>, <a href="https://users.math.msu.edu/users/teena/Home.html">T. Gerhardt</a>, <a href="https://www.math.ucla.edu/~mikehill/">M. Hill</a>, <a href="https://evahoening.netlify.app/">E. H<span>&#246;</span>ning</a>, <a href="https://www.math.upenn.edu/~mmerling/">M. Merling</a>, <a href="https://www.maximilienperoux.com/">M. P<span>&#233;</span>roux</a>, <a href="https://e.math.cornell.edu/people/jdq27/">J.D. Quigley</a>, <a href="https://clasprofiles.wayne.edu/profile/dy8211">A. Salch</a></p>
     </div>
     </div>
