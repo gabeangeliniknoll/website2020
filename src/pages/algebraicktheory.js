@@ -4,7 +4,7 @@ import SEO from "../components/seo"
 
 // import PDF from "../components/pdf"
 
-import Notes from "./knotes"
+import Notes from "../components/knotes"
 
 // YAML Data file
 import YAMLData from "../content/knotes.yml"
@@ -21,12 +21,16 @@ const Research = () => (
         <ul>
         {s.lectures ? s.lectures.map((l, i) => (
           <li key={i}>
-            <h4 key={i}>{l.title}
+            <h4 key={i}>{l.title}<span> </span><i>{l.author}</i>
             <span >{l.links ? l.links.map((l,i) => (
               <>
-              <span> </span>{l.body ? l.body.map(block => Notes(block)) 
+              <span> </span>{l.body ? l.body.map(block => Notes(block))  
               : null
-              } 
+              }
+              <span> </span>{l.url ? l.url.map((u,i) => (
+              <a key={i} href={`${u.url}`}>{`${u.urltext}`}</a>
+              )): null
+              }
               </>
               )
             )

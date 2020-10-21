@@ -1,5 +1,5 @@
 page: Algebraic K-theory
-pageDescription: This is the course website for 
+pageDescription: This website contains the course notes and additonal references for 
 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2020ws_Algebraic-K-Theory.html
 urlText: 19243901 Algebraic K-Theory 
 sections: 
@@ -7,36 +7,79 @@ sections:
     lectures: 
       - title: "Lecture 1: The Grothendieck group and the Whitehead group."
         links:
+          - url: 
+          - urltext: 
           - body:
             - {_uid: KTY6Drn9e1,paper: "lecture1",displayText: "pdf"}
       - title: "Lecture 2: The +-construction."
         links:
+          - url: 
+          - urltext: 
           - body:
             - {_uid: KTY6Drn9e2,paper: "lecture2",displayText: "pdf"}
       - title: "Lecture 3: Algebraic K-theory of finite fields."
         links:
+          - url: 
+          - urltext: 
           - body:
             - {_uid: KTY6Drn9e3,paper: "lecture3",displayText: "pdf"}
       - title: "Lecture 4: Simplicial Methods, Quillen's Theorem A and Theorem B."
         links:
+          - url: 
+          - urltext: 
           - body:
             - {_uid: KTY6Drn9e4,paper: "lecture4",displayText: "pdf"}
       - title: "Lecture 5: The Q-construction and algebraic K-theory of schemes."
         links:
+          - url: 
+          - urltext: 
           - body:
             - {_uid: KTY6Drn9e5,paper: "lecture5",displayText: "pdf"}
       - title: "Lecture 6: Additivity, localization, reduction by resolution, and devisage."
         links:
+          - url: 
+          - urltext: 
           - body:
             - {_uid: KTY6Drn9e6,paper: "lecture5",displayText: "pdf"}
       - title: "Lecture 7: The S.-construction and algebraic K-theory of spaces."
         links:
+          - url: 
+          - urltext: 
           - body:
             - {_uid: KTY6Drn9e7,paper: "lecture5",displayText: "pdf"}
       - title: "Lecture 8: Additivity, approximation, spherical objects, and localization."
         links:
+          - url: 
+          - urltext: 
           - body:
             - {_uid: KTY6Drn9e8,paper: "lecture7",displayText: "pdf"}
-
+  - title: References
+    lectures: 
+      - title: "The K-book."
+        author: Charles Weibel.
+        links:
+          - url: 
+            - url: https://sites.math.rutgers.edu/~weibel/Kbook.html
+              urltext: pdf
+      - title: "On the Cohomology and K-Theory of the General Linear Groups Over a Finite Field."
+        author: Daniel Quillen.
+        links:
+          - url: 
+            - url: https://www.jstor.org/stable/pdf/1970825.pdf
+              urltext: pdf
+      - title: "Higher Algebraic K-theory I."
+        author: Daniel Quillen.  
+        links:
+          - url: 
+            - url: https://link.springer.com/chapter/10.1007/BFb0067053
+              urltext: pdf
+      - title: "Algebraic K-theory of Spaces."
+        author: Friedhelm Waldhausen.
+        links:
+          - url: 
+            - url: https://pub.uni-bielefeld.de/record/1782197
+              urltext: pdf
+      
+    
 
 

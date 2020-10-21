@@ -24,11 +24,11 @@ const IndexPage = () => (
      <Image />
     </div> 
     <div clear="both"></div>
-    <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
+    <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
     <h2>Current Teaching</h2>
-      <p><b>19243901 Algebraic K-Theory</b><span> </span>Fundamental theorems and applications.<br></br><Link to="/algebraicktheory">Course Website.</Link></p>
-      <p><b>19223811 Forschungsmodul: Topologie </b> Equivariant stable homotopy theory.<br></br><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_ws2020.html">Course Website.</a></p>
-      <p><b>Forschungsseminar Geometrie und Topologie</b>Higher Symmetry.<br></br><a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020WS-geom.html">Course Website.</a></p>
+      <p><b>19243901 Algebraic K-Theory</b><span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/2020ws_Algebraic-K-Theory.html">Course Website.</a><span> </span><Link to="/algebraicktheory">Course Notes.</Link> </p>
+      <p><b>19223811 Forschungsmodul: Topologie </b><span> </span>Equivariant stable homotopy theory.<span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_ws2020.html">Course Website.</a></p>
+      <p><b>Forschungsseminar Geometrie und Topologie</b><span> </span>Higher Symmetry.<span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020WS-geom.html">Course Website.</a></p>
     <h2>Contact</h2>
     <h3>Pronouns:</h3>
       <p>He/Him/His</p>
