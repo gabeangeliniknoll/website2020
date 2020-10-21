@@ -60,25 +60,25 @@ sections:
         links:
           - url: 
             - url: https://sites.math.rutgers.edu/~weibel/Kbook.html
-              urltext: pdf
+              urltext: link
       - title: "On the Cohomology and K-Theory of the General Linear Groups Over a Finite Field."
         author: Daniel Quillen.
         links:
           - url: 
             - url: https://www.jstor.org/stable/pdf/1970825.pdf
-              urltext: pdf
+              urltext: link
       - title: "Higher Algebraic K-theory I."
         author: Daniel Quillen.  
         links:
           - url: 
             - url: https://link.springer.com/chapter/10.1007/BFb0067053
-              urltext: pdf
+              urltext: link
       - title: "Algebraic K-theory of Spaces."
         author: Friedhelm Waldhausen.
         links:
           - url: 
             - url: https://pub.uni-bielefeld.de/record/1782197
-              urltext: pdf
+              urltext: link
       
     
 
