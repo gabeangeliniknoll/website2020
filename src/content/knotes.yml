@@ -3,57 +3,65 @@ pageDescription: This website contains the course notes and additonal references
 url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2020ws_Algebraic-K-Theory.html
 urlText: 19243901 Algebraic K-Theory 
 sections: 
-  - title: Course Notes
-    lectures: 
-      - title: "Lecture 1: The Grothendieck group and the Whitehead group."
-        links:
-          - url: 
-          - urltext: 
-          - body:
-            - {_uid: KTY6Drn9e1,paper: "lecture1",displayText: "pdf"}
-      - title: "Lecture 2: The +-construction."
-        links:
-          - url: 
-          - urltext: 
-          - body:
-            - {_uid: KTY6Drn9e2,paper: "lecture2",displayText: "pdf"}
-      - title: "Lecture 3: Algebraic K-theory of finite fields."
-        links:
-          - url: 
-          - urltext: 
-          - body:
-            - {_uid: KTY6Drn9e3,paper: "lecture3",displayText: "pdf"}
-      - title: "Lecture 4: Simplicial Methods, Quillen's Theorem A and Theorem B."
-        links:
-          - url: 
-          - urltext: 
-          - body:
-            - {_uid: KTY6Drn9e4,paper: "lecture4",displayText: "pdf"}
-      - title: "Lecture 5: The Q-construction and algebraic K-theory of schemes."
-        links:
-          - url: 
-          - urltext: 
-          - body:
-            - {_uid: KTY6Drn9e5,paper: "lecture5",displayText: "pdf"}
-      - title: "Lecture 6: Additivity, localization, reduction by resolution, and devisage."
-        links:
-          - url: 
-          - urltext: 
-          - body:
-            - {_uid: KTY6Drn9e6,paper: "lecture5",displayText: "pdf"}
-      - title: "Lecture 7: The S.-construction and algebraic K-theory of spaces."
-        links:
-          - url: 
-          - urltext: 
-          - body:
-            - {_uid: KTY6Drn9e7,paper: "lecture5",displayText: "pdf"}
-      - title: "Lecture 8: Additivity, approximation, spherical objects, and localization."
-        links:
-          - url: 
-          - urltext: 
-          - body:
-            - {_uid: KTY6Drn9e8,paper: "lecture7",displayText: "pdf"}
-  - title: References
+  - title: Current Complete Course Notes 
+    lectures:
+      - title: "A brief introduction to algebraic K-theory"
+        links: 
+          - display: 
+            url: 
+            body:
+              - {_uid: KTY6Drn9e0,lecture: "complete",displayText: "pdf"}
+  # - title: Lecture Notes
+  #   lectures: 
+  #     - title: "Lecture 1: The Grothendieck group."
+  #       links:
+  #         - display: 
+  #           url: 
+  #           body:
+  #           - {_uid: KTY6Drn9e1,lecture: "lecture1",displayText: "pdf"}
+      # - title: "Lecture 2: The +-construction."
+      #   links:
+      #     - url: 
+      #     - urltext: 
+      #     - body:
+      #       - {_uid: KTY6Drn9e2,paper: "lecture2",displayText: "pdf"}
+      # - title: "Lecture 3: Algebraic K-theory of finite fields."
+      #   links:
+      #     - url: 
+      #     - urltext: 
+      #     - body:
+      #       - {_uid: KTY6Drn9e3,paper: "lecture3",displayText: "pdf"}
+      # - title: "Lecture 4: Simplicial Methods, Quillen's Theorem A and Theorem B."
+      #   links:
+      #     - url: 
+      #     - urltext: 
+      #     - body:
+      #       - {_uid: KTY6Drn9e4,paper: "lecture4",displayText: "pdf"}
+      # - title: "Lecture 5: The Q-construction and algebraic K-theory of schemes."
+      #   links:
+      #     - url: 
+      #     - urltext: 
+      #     - body:
+      #       - {_uid: KTY6Drn9e5,paper: "lecture5",displayText: "pdf"}
+      # - title: "Lecture 6: Additivity, localization, reduction by resolution, and devisage."
+      #   links:
+      #     - url: 
+      #     - urltext: 
+      #     - body:
+      #       - {_uid: KTY6Drn9e6,paper: "lecture5",displayText: "pdf"}
+      # - title: "Lecture 7: The S.-construction and algebraic K-theory of spaces."
+      #   links:
+      #     - url: 
+      #     - urltext: 
+      #     - body:
+      #       - {_uid: KTY6Drn9e7,paper: "lecture5",displayText: "pdf"}
+      # - title: "Lecture 8: Additivity, approximation, spherical objects, and localization."
+      #   links:
+      #     - url: 
+      #     - urltext: 
+      #     - body:
+      #       - {_uid: KTY6Drn9e8,paper: "lecture7",displayText: "pdf"}
+  - title: Additional References
     lectures: 
       - title: "The K-book."
         author: Charles Weibel.
@@ -72,6 +80,12 @@ sections:
         links:
           - url: 
             - url: https://link.springer.com/chapter/10.1007/BFb0067053
+              urltext: link
+      - title: "Categories and cohomology theories."
+        author: Graeme Segal.
+        links:
+          - url: 
+            - url: https://pdf.sciencedirectassets.com/271595/1-s2.0-S0040938300X0064X/1-s2.0-0040938374900226/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDmoZIQ2T6pqbvHFD97rBZxXRfdpTbIzYTFHA4e7RpeUgIgfl7fGYDRdB7kbH3jF991KIExmCmD%2FCyKyuM5OgSaURcqvQMI7f%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgwwNTkwMDM1NDY4NjUiDNYzBUpFsCB9DsX5YiqRA1CxvleK3mIjiJTdjuAXVcEZabS2QzzYe1%2F1Zn6Eejzo9fNv6tCbGlz6Gvzrm6Y2zJ4yWVENd0Z393C5CcvhnYxXMLCtIbNHWvICpHl9YpJqVbY4yZDq5egCxyUWPCQAMHiN5Ig0bKjieZeq7uTLp4o4rB%2BbJOuyn27SGClCmznfwE%2BolZldboTqvyJTl9lCputNttXuFQKLjbDkzGnDVmYFgnWK5gN8L%2F4os3WJxT8W%2Fs7TkJV%2B4qcHAA%2BFzMFPEofQLOG5oQGCKLIBPW6fpxSJPTAU5r81BYe6htUn9iVCy4p5WfLYB3kbc4zyBw3iiD3wa1kfCqxAyOHOaIb2XsQzuNGuLr3HkQGlWuoUACgNvgqq68XwIVGGKrqalQ8WJ0ZlfQdfmnMyQ2ox9%2BHR27XWqjGZlcOL%2F3ZBBnprRNIm8IKMNihckBoTMdefc5P0B5nLLWzS6glqS13qwui8Hx6ninHKGePsi2vPZszXJQYIy3807vJrJiq%2Bpp2xW4rIFBLFwaBNMCg85To5XA%2FUMBdOMJT72vwFOusB9GgOPRMCadrzbwGCmr05j%2FBNBfzwG0Feb7Pp7HSYfgK%2Be%2FnIMBKTOPbDa2WghxnCrm42uaaaM5wvPai2ej%2F2JntxsvGusPH0N88RsHAYqGcoh0LZA9Kye1KMyWNbjDL%2B7ggkVseAGNb7yF0O22FVFhYq7brD6Lsbs8JuXu6TlJe5dAw%2BnC8kNfqob01ccLmC2FMupYhxN1s%2BkwWDkRUWeiCi%2BbU61kmkAPzTsYFHzfCga7dtixpycByJFtbiKnULHsJKIl5a5L2YSmF80iwL5YP%2BjO0PgOm7QAFVYO9JGsn%2BYwSiLglyOUzxxA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201026T124300Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQECW7I6I%2F20201026%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=21f201a8538ae01367251a27214824589f7c4be7ccccd6e2d20aef68072a896e&hash=fc381ce3a08b47d2072bb788f5c5ff63273274fbc8e79470cd87082ac89f2427&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=0040938374900226&tid=spdf-9deb45a9-ea58-4090-af7f-072a02cd31c1&sid=990311e28f51c64fc9492e49aef8313ac2acgxrqb&type=client
               urltext: link
       - title: "Algebraic K-theory of Spaces."
         author: Friedhelm Waldhausen.

@@ -4,7 +4,7 @@ import SEO from "../components/seo"
 
 // import PDF from "../components/pdf"
 
-import Notes from "../components/knotes"
+import Knotes from "./knotes"
 
 // YAML Data file
 import YAMLData from "../content/knotes.yml"
@@ -24,7 +24,8 @@ const Research = () => (
             <h4 key={i}>{l.title}<span> </span><i>{l.author}</i>
             <span >{l.links ? l.links.map((l,i) => (
               <>
-              <span> </span>{l.body ? l.body.map(block => Notes(block))  
+              <span> </span> 
+              {l.body ? l.body.map(block => Knotes(block))  
               : null
               }
               <span> </span>{l.url ? l.url.map((u,i) => (
