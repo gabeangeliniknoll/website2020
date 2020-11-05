@@ -20,7 +20,7 @@ import Quiver from "../components/quiver"
 // import Research from "../static/research_Angelini-Knoll.pdf";
 
 const Papers = {
-   cv: CV,
+  cv: CV,
   research: ResearchStatement,
   limits: Limits,
   kyn: Kyn,

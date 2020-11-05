@@ -4,7 +4,7 @@ import React from "react";
 
 // Imported pdf files in order of appearance
 import Complete from "../components/complete";
-// import Lecture1 from"../components/lecture1";
+import Aklectureone from "../components/aklectureone";
 // import Lecture2 from "../static/complete.pdf";
 // import Lecture3 from "../static/complete.pdf";
 // import Lecture4 from "../static/complete.pdf";
@@ -18,7 +18,7 @@ import Complete from "../components/complete";
 
 const Knotes = {
   complete: Complete,
-  // lecture1: Lecture1,
+  aklectureone: Aklectureone,
   //  lecture2: Lecture2,
   //  lecture3: Lecture3,
   //  lecture4: Lecture4,

@@ -11,14 +11,14 @@ sections:
             url: 
             body:
               - {_uid: KTY6Drn9e0,lecture: "complete",displayText: "pdf"}
-  # - title: Lecture Notes
-  #   lectures: 
-  #     - title: "Lecture 1: The Grothendieck group."
-  #       links:
-  #         - display: 
-  #           url: 
-  #           body:
-  #           - {_uid: KTY6Drn9e1,lecture: "lecture1",displayText: "pdf"}
+  - title: Lecture Notes
+    lectures: 
+      - title: "Lecture 1: The Grothendieck group."
+        links:
+          - display: 
+            url: 
+            body:
+              - {_uid: KTY6Drn9e1,lecture: "aklectureone",displayText: "pdf"}
       # - title: "Lecture 2: The +-construction."
       #   links:
       #     - url: 
