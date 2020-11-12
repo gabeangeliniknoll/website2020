@@ -19,48 +19,12 @@ sections:
             url: 
             body:
               - {_uid: KTY6Drn9e1,lecture: "aklectureone",displayText: "pdf"}
-      # - title: "Lecture 2: The +-construction."
-      #   links:
-      #     - url: 
-      #     - urltext: 
-      #     - body:
-      #       - {_uid: KTY6Drn9e2,paper: "lecture2",displayText: "pdf"}
-      # - title: "Lecture 3: Algebraic K-theory of finite fields."
-      #   links:
-      #     - url: 
-      #     - urltext: 
-      #     - body:
-      #       - {_uid: KTY6Drn9e3,paper: "lecture3",displayText: "pdf"}
-      # - title: "Lecture 4: Simplicial Methods, Quillen's Theorem A and Theorem B."
-      #   links:
-      #     - url: 
-      #     - urltext: 
-      #     - body:
-      #       - {_uid: KTY6Drn9e4,paper: "lecture4",displayText: "pdf"}
-      # - title: "Lecture 5: The Q-construction and algebraic K-theory of schemes."
-      #   links:
-      #     - url: 
-      #     - urltext: 
-      #     - body:
-      #       - {_uid: KTY6Drn9e5,paper: "lecture5",displayText: "pdf"}
-      # - title: "Lecture 6: Additivity, localization, reduction by resolution, and devisage."
-      #   links:
-      #     - url: 
-      #     - urltext: 
-      #     - body:
-      #       - {_uid: KTY6Drn9e6,paper: "lecture5",displayText: "pdf"}
-      # - title: "Lecture 7: The S.-construction and algebraic K-theory of spaces."
-      #   links:
-      #     - url: 
-      #     - urltext: 
-      #     - body:
-      #       - {_uid: KTY6Drn9e7,paper: "lecture5",displayText: "pdf"}
-      # - title: "Lecture 8: Additivity, approximation, spherical objects, and localization."
-      #   links:
-      #     - url: 
-      #     - urltext: 
-      #     - body:
-      #       - {_uid: KTY6Drn9e8,paper: "lecture7",displayText: "pdf"}
+      - title: "Lecture 2: The Whitehead group."
+        links:
+          - display: 
+            url: 
+            body:
+              - {_uid: KTY6Drn9e2,lecture: "aklecturetwo",displayText: "pdf"}
   - title: Additional References
     lectures: 
       - title: "The K-book."

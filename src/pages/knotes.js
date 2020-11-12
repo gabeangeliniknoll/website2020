@@ -5,13 +5,7 @@ import React from "react";
 // Imported pdf files in order of appearance
 import Complete from "../components/complete";
 import Aklectureone from "../components/aklectureone";
-// import Lecture2 from "../static/complete.pdf";
-// import Lecture3 from "../static/complete.pdf";
-// import Lecture4 from "../static/complete.pdf";
-// import Lecture5 from "../static/complete.pdf";
-// import Lecture6 from "../static/complete.pdf";
-// import Lecture7 from "../static/complete.pdf";
-// import Lecture8 from "../static/complete.pdf";
+import Aklecturetwo from "../components/aklecturetwo";
 
 // import CV from "../static/CV.pdf";
 // import Research from "../static/research_Angelini-Knoll.pdf";
@@ -19,13 +13,7 @@ import Aklectureone from "../components/aklectureone";
 const Knotes = {
   complete: Complete,
   aklectureone: Aklectureone,
-  //  lecture2: Lecture2,
-  //  lecture3: Lecture3,
-  //  lecture4: Lecture4,
-  //  lecture5: Lecture5,
-  //  lecture6: Lecture6,
-  //  lecture7: Lecture7,
-  //  lecture8: Lecture8,
+  aklecturetwo: Aklecturetwo,
 };
 
 export default block => {
