@@ -25,6 +25,66 @@ sections:
             url: 
             body:
               - {_uid: KTY6Drn9e2,lecture: "aklecturetwo",displayText: "pdf"}
+      - title: "Lecture 3: Milnor K-theory."
+        links:
+          - display: 
+            url: 
+            body:
+              - {_uid: KTY6Drn9e3,lecture: "aklecturethree",displayText: "pdf"}
+      # - title: "Lecture 4:"
+      #   links:
+      #     - display: 
+      #       url: 
+      #       body:
+      #         - {_uid: KTY6Drn9e4,lecture: "aklecturefour",displayText: "pdf"}
+      # - title: "Lecture 5:"
+      #   links:
+      #     - display: 
+      #       url: 
+      #       body:
+      #         - {_uid: KTY6Drn9e5,lecture: "aklecturefive",displayText: "pdf"}
+      # - title: "Lecture 6:"
+      #   links:
+      #     - display: 
+      #       url: 
+      #       body:
+      #         - {_uid: KTY6Drn9e6,lecture: "aklecturesix",displayText: "pdf"}
+      # - title: "Lecture 7:"
+      #   links:
+      #     - display: 
+      #       url: 
+      #       body:
+      #         - {_uid: KTY6Drn9e7,lecture: "aklectureseven",displayText: "pdf"}
+      # - title: "Lecture 8:"
+      #   links:
+      #     - display: 
+      #       url: 
+      #       body:
+      #         - {_uid: KTY6Drn9e8,lecture: "aklectureeight",displayText: "pdf"}
+      # - title: "Lecture 9:"
+      #   links:
+      #     - display: 
+      #       url: 
+      #       body:
+      #         - {_uid: KTY6Drn9e9,lecture: "aklecturenine",displayText: "pdf"}
+      # - title: "Lecture 10:"
+      #   links:
+      #     - display: 
+      #       url: 
+      #       body:
+      #         - {_uid: KTY6Drn910,lecture: "aklectureten",displayText: "pdf"}
+      # - title: "Lecture 11:"
+      #   links:
+      #     - display: 
+      #       url: 
+      #       body:
+      #         - {_uid: KTY6Drn911,lecture: "aklectureeleven",displayText: "pdf"}
+      # - title: "Lecture 12:"
+      #   links:
+      #     - display: 
+      #       url: 
+      #       body:
+      #         - {_uid: KTY6Drn912,lecture: "aklecturetwelve",displayText: "pdf"}
   - title: Additional References
     lectures: 
       - title: "The K-book."

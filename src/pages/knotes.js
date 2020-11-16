@@ -6,6 +6,16 @@ import React from "react";
 import Complete from "../components/complete";
 import Aklectureone from "../components/aklectureone";
 import Aklecturetwo from "../components/aklecturetwo";
+import Aklecturethree from "../components/aklecturethree";
+// import Aklecturefour from "../components/aklecturefour";
+// import Aklecturefive from "../components/aklecturefive";
+// import Aklecturesix from "../components/aklecturesix";
+// import Aklectureseven from "../components/aklectureseven";
+// import Aklectureeight from "../components/aklectureeight";
+// import Aklecturenine from "../components/aklecturenine";
+// import Aklectureten from "../components/aklectureten";
+// import Aklectureeleven from "../components/aklectureeleven";
+// import Aklecturetwelve from "../components/aklecturetwelve";
 
 // import CV from "../static/CV.pdf";
 // import Research from "../static/research_Angelini-Knoll.pdf";
@@ -14,6 +24,16 @@ const Knotes = {
   complete: Complete,
   aklectureone: Aklectureone,
   aklecturetwo: Aklecturetwo,
+  aklecturethree: Aklecturethree,
+  // aklecturefour: Aklecturefour,
+  // aklecturefive: Aklecturefive,
+  // aklecturesix: Aklecturesix,
+  // aklectureseven: Aklectureseven,
+  // aklectureeight: Aklectureeight,
+  // aklecturenine: Aklecturenine,
+  // aklectureten: Aklectureten,
+  // aklectureeleven: Aklectureeleven,
+  // aklecturetwelve: Aklecturetwelve,
 };
 
 export default block => {
