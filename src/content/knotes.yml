@@ -31,12 +31,12 @@ sections:
             url: 
             body:
               - {_uid: KTY6Drn9e3,lecture: "aklecturethree",displayText: "pdf"}
-      # - title: "Lecture 4:"
-      #   links:
-      #     - display: 
-      #       url: 
-      #       body:
-      #         - {_uid: KTY6Drn9e4,lecture: "aklecturefour",displayText: "pdf"}
+      - title: "Lecture 4: Simplicial Methods."
+        links:
+          - display: 
+            url: 
+            body:
+              - {_uid: KTY6Drn9e4,lecture: "aklecturefour",displayText: "pdf"}
       # - title: "Lecture 5:"
       #   links:
       #     - display: 
