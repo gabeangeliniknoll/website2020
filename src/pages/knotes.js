@@ -8,7 +8,7 @@ import Aklectureone from "../components/aklectureone";
 import Aklecturetwo from "../components/aklecturetwo";
 import Aklecturethree from "../components/aklecturethree";
 import Aklecturefour from "../components/aklecturefour";
-// import Aklecturefive from "../components/aklecturefive";
+import Aklecturefive from "../components/aklecturefive";
 // import Aklecturesix from "../components/aklecturesix";
 // import Aklectureseven from "../components/aklectureseven";
 // import Aklectureeight from "../components/aklectureeight";
@@ -26,7 +26,7 @@ const Knotes = {
   aklecturetwo: Aklecturetwo,
   aklecturethree: Aklecturethree,
   aklecturefour: Aklecturefour,
-  // aklecturefive: Aklecturefive,
+  aklecturefive: Aklecturefive,
   // aklecturesix: Aklecturesix,
   // aklectureseven: Aklectureseven,
   // aklectureeight: Aklectureeight,
