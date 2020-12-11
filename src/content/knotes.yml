@@ -43,12 +43,12 @@ sections:
             url: 
             body:
               - {_uid: KTY6Drn9e5,lecture: "aklecturefive",displayText: "pdf"}
-      # - title: "Lecture 6:"
-      #   links:
-      #     - display: 
-      #       url: 
-      #       body:
-      #         - {_uid: KTY6Drn9e6,lecture: "aklecturesix",displayText: "pdf"}
+      - title: "Lecture 6:"
+        links:
+          - display: 
+            url: 
+            body:
+              - {_uid: KTY6Drn9e6,lecture: "aklecturesix",displayText: "pdf"}
       # - title: "Lecture 7:"
       #   links:
       #     - display: 
