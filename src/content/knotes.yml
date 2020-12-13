@@ -43,43 +43,49 @@ sections:
             url: 
             body:
               - {_uid: KTY6Drn9e5,lecture: "aklecturefive",displayText: "pdf"}
-      - title: "Lecture 6:"
+      - title: "Lecture 6: Quillen's Theorem A and Theorem B"
         links:
           - display: 
             url: 
             body:
               - {_uid: KTY6Drn9e6,lecture: "aklecturesix",displayText: "pdf"}
-      # - title: "Lecture 7:"
-      #   links:
-      #     - display: 
-      #       url: 
-      #       body:
-      #         - {_uid: KTY6Drn9e7,lecture: "aklectureseven",displayText: "pdf"}
-      # - title: "Lecture 8:"
+      - title: "Lecture 7: Covering spaces and classifying spaces of categories"
+        links:
+          - display: 
+            url: 
+            body:
+              - {_uid: KTY6Drn9e7,lecture: "aklectureseven",displayText: "pdf"}
+      # - title: "Lecture 8: The Q-construction"
       #   links:
       #     - display: 
       #       url: 
       #       body:
       #         - {_uid: KTY6Drn9e8,lecture: "aklectureeight",displayText: "pdf"}
-      # - title: "Lecture 9:"
+      # - title: "Lecture 9: Fundamental Theorems"
       #   links:
       #     - display: 
       #       url: 
       #       body:
       #         - {_uid: KTY6Drn9e9,lecture: "aklecturenine",displayText: "pdf"}
-      # - title: "Lecture 10:"
+      # - title: "Lecture 10: Waldhausen's S-construction"
       #   links:
       #     - display: 
       #       url: 
       #       body:
       #         - {_uid: KTY6Drn910,lecture: "aklectureten",displayText: "pdf"}
-      # - title: "Lecture 11:"
+      # - title: "Lecture 11: Additivity"
       #   links:
       #     - display: 
       #       url: 
       #       body:
       #         - {_uid: KTY6Drn911,lecture: "aklectureeleven",displayText: "pdf"}
-      # - title: "Lecture 12:"
+      # - title: "Lecture 12: Group cohomology and spectral Sequences"
+      #   links:
+      #     - display: 
+      #       url: 
+      #       body:
+      #         - {_uid: KTY6Drn912,lecture: "aklecturetwelve",displayText: "pdf"}
+      # - title: "Lecture 13: Algebraic K-theory of finite fields"
       #   links:
       #     - display: 
       #       url: 
