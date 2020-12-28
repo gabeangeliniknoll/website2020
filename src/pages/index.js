@@ -39,6 +39,9 @@ const IndexPage = () => (
       </br>Raum 215<br>  
       </br>14195 Berlin <br>
       </br>Germany</p>
+    <h2>Service</h2>
+    <p>I co-organized a <a href="http://www.ams.org/meetings/sectional/2267_program_ss34.html">Special Session on Homotopy Theory</a> at the AMS Sectional at University of Wisconsin-Madison on Sept. 14-15 of 2019. </p>
+    <p>I co-organized the <a href="https://users.math.msu.edu/users/angeli91/MTS/mts19.html">Midwest Topology Seminar</a> at Michigan State University on May 18-19 of 2019.</p>
     <h2>Resources</h2>
       <p> <a href=" https://www.europeanwomeninmaths.org/">European  Women in Mathematics</a>, <a href="https://awm-math.org/ ">Association for Women in Mathematics</a>, <a href="http://lgbtmath.org/index.html">Spectra</a>, <a href="https://s.wayne.edu/isaksen/algebraic-topology-journals/">Algebraic Topology Journals</a>, <a href="https://researchseminars.org/">Online Research Seminars</a>, <a href="http://mathmeetings.net/at-gt">MathMeetings</a>, <a href="https://faculty.math.illinois.edu/K-theory/Calendar/">K-theory Calender</a></p>
       <h2>Collaborators</h2>
