@@ -23,6 +23,23 @@ sections:
               url: https://msp.org/agt/2020/20-4/
               sep: "."
               start: "Published in "
+        - title: The Segal Conjecture for Topological Hochschild Homology of Ravenel spectra
+          description: We solve the homotopy limit problem for topological Hochschild homology of Ravenel's spectra X(n) with respect to all cyclic groups of order a power of p. This implies that, after p-completion, topological negative cyclic homology and topological periodic cyclic homology of X(n) are homotopy equivalent.
+          coauthors:  
+            - name: J.D. Quigley
+              url: https://e.math.cornell.edu/people/jdq27/
+              sep: "." 
+              start: "Joint with "
+          links:
+            - display: arxiv
+              url: https://arxiv.org/abs/1705.03343
+              body:
+                 - {_uid: BUY6Drn9e4,paper: "segal",displayText: "pdf"}
+          journal: 
+            - name: Journal of Homotopy and Related Structures
+              url: https://www.springer.com/journal/40062
+              sep: "."
+              start: "Accepted for publication in "
         - title: On topological Hochschild homology of the K(1)-local sphere  
           description: I compute mod (p,v_1) topological Hochschild homology of the connective cover of the K(1)-local sphere spectrum using the topological Hochschild-May spectral sequence.
           links:
@@ -66,18 +83,6 @@ sections:
               url: https://arxiv.org/abs/1612.00548
               body:
                 - {_uid: BUY6Drn9e3,paper: "beta",displayText: "pdf"}
-        - title: The Segal Conjecture for Topological Hochschild Homology of Ravenel spectra
-          description: We solve the homotopy limit problem for topological Hochschild homology of Ravenel's spectra X(n) with respect to all cyclic groups of order a power of p. This implies that, after p-completion, topological negative cyclic homology and topological periodic cyclic homology of X(n) are homotopy equivalent.
-          coauthors:  
-            - name: J.D. Quigley
-              url: https://e.math.cornell.edu/people/jdq27/
-              sep: "." 
-              start: "Joint with "
-          links:
-            - display: arXiv
-              url: https://arxiv.org/abs/1705.03343
-              body:
-                 - {_uid: BUY6Drn9e4,paper: "segal",displayText: "pdf"}
     - title: Papers in preparation
       papers:
         - title: Topological Hochschild homology of the second truncated Brown-Peterson spectrum
