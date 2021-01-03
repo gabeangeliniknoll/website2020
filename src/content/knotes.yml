@@ -55,12 +55,12 @@ sections:
             url: 
             body:
               - {_uid: KTY6Drn9e7,lecture: "aklectureseven",displayText: "pdf"}
-      # - title: "Lecture 8: The Q-construction"
-      #   links:
-      #     - display: 
-      #       url: 
-      #       body:
-      #         - {_uid: KTY6Drn9e8,lecture: "aklectureeight",displayText: "pdf"}
+      - title: "Lecture 8: Waldhausen's S-construction."
+        links:
+          - display: 
+            url: 
+            body:
+              - {_uid: KTY6Drn9e8,lecture: "aklectureeight",displayText: "pdf"}
       # - title: "Lecture 9: Fundamental Theorems"
       #   links:
       #     - display: 
