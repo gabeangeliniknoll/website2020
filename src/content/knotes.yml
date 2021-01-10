@@ -61,19 +61,19 @@ sections:
             url: 
             body:
               - {_uid: KTY6Drn9e8,lecture: "aklectureeight",displayText: "pdf"}
-      # - title: "Lecture 9: Fundamental Theorems"
-      #   links:
-      #     - display: 
-      #       url: 
-      #       body:
-      #         - {_uid: KTY6Drn9e9,lecture: "aklecturenine",displayText: "pdf"}
-      # - title: "Lecture 10: Waldhausen's S-construction"
+      - title: "Lecture 9: The Additivity Theorem"
+        links:
+          - display: 
+            url: 
+            body:
+              - {_uid: KTY6Drn9e9,lecture: "aklecturenine",displayText: "pdf"}
+      # - title: "Lecture 10: "
       #   links:
       #     - display: 
       #       url: 
       #       body:
       #         - {_uid: KTY6Drn910,lecture: "aklectureten",displayText: "pdf"}
-      # - title: "Lecture 11: Additivity"
+      # - title: "Lecture 11: "
       #   links:
       #     - display: 
       #       url: 
