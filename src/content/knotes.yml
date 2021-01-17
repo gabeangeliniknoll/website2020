@@ -67,12 +67,12 @@ sections:
             url: 
             body:
               - {_uid: KTY6Drn9e9,lecture: "aklecturenine",displayText: "pdf"}
-      # - title: "Lecture 10: "
-      #   links:
-      #     - display: 
-      #       url: 
-      #       body:
-      #         - {_uid: KTY6Drn910,lecture: "aklectureten",displayText: "pdf"}
+      - title: "Lecture 10: A universal property of Algebraic K-theory "
+        links:
+          - display: 
+            url: 
+            body:
+              - {_uid: KTY6Drn910,lecture: "aklectureten",displayText: "pdf"}
       # - title: "Lecture 11: "
       #   links:
       #     - display: 
