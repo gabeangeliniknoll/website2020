@@ -72,7 +72,7 @@ sections:
           - display: 
             url: 
             body:
-              - {_uid: KTY6Drn910,lecture: "aklectureten",displayText: "pdf"}
+              - {_uid: KTY6Drn9f1,lecture: "aklectureten",displayText: "pdf"}
       # - title: "Lecture 11: "
       #   links:
       #     - display: 
