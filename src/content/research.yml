@@ -27,11 +27,14 @@ sections:
               url: https://arxiv.org/abs/1705.03343
               body:
                  - {_uid: BUY6Drn9e4,paper: "segal",displayText: "pdf"}
+            - display: published
+              url: https://link.springer.com/article/10.1007%2Fs40062-021-00275-7
+              body:
           journal: 
             - name: Journal of Homotopy and Related Structures
               url: https://www.springer.com/journal/40062
               sep: "."
-              start: "Accepted for publication in "
+              start: "Published in "
         - title: A May-type spectral sequence for topological Hochschild homology
           description: We construct a spectral sequence for higher topological Hochschild homology associated to a multiplicative filtration of a commutative ring spectrum. In particular, we show that the Whitehead tower of a commutative ring spectrum can be built as a multiplicative filtered commutative ring spectrum. We use this spectral sequence to give a bound on topological Hochshcild homology of a connective commutative ring spectrum.
           coauthors: 
