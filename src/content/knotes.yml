@@ -73,12 +73,12 @@ sections:
             url: 
             body:
               - {_uid: KTY6Drn9f1,lecture: "aklectureten",displayText: "pdf"}
-      # - title: "Lecture 11: "
-      #   links:
-      #     - display: 
-      #       url: 
-      #       body:
-      #         - {_uid: KTY6Drn911,lecture: "aklectureeleven",displayText: "pdf"}
+      - title: "Lecture 11: The fibration Theorem"
+        links:
+          - display: 
+            url: 
+            body:
+              - {_uid: KTY6Drn911,lecture: "aklectureeleven",displayText: "pdf"}
       # - title: "Lecture 12: Group cohomology and spectral Sequences"
       #   links:
       #     - display: 
