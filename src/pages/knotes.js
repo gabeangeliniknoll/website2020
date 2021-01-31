@@ -15,11 +15,10 @@ import Aklectureeight from "../components/aklectureeight";
 import Aklecturenine from "../components/aklecturenine";
 import Aklectureten from "../components/aklectureten";
 import Aklectureeleven from "../components/aklectureeleven";
-// import Aklecturetwelve from "../components/aklecturetwelve";
-// import Aklecturetwelve from "../components/aklecturethirteen";
-// import Aklecturetwelve from "../components/aklecturefourteen";
-// import Aklecturetwelve from "../components/aklecturefifteen";
-// import Aklecturetwelve from "../components/aklecturesixteen";
+import Aklecturetwelve from "../components/aklecturetwelve";
+// import Aklecturethirteen from "../components/aklecturethirteen";
+// import Aklecturefourteen from "../components/aklecturefourteen";
+// import Aklecturefifteen from "../components/aklecturefifteen";
 
 const Knotes = {
   complete: Complete,
@@ -34,11 +33,10 @@ const Knotes = {
   aklecturenine: Aklecturenine,
   aklectureten: Aklectureten,
   aklectureeleven: Aklectureeleven,
-  // aklecturetwelve: Aklecturetwelve,
+  aklecturetwelve: Aklecturetwelve,
   // aklectureeleven: Aklecturethirteen,
   // aklecturetwelve: Aklecturefourteen,
   // aklectureeleven: Aklecturefifteen,
-  // aklecturetwelve: Aklecturesixteen,
 };
 
 export default block => {
