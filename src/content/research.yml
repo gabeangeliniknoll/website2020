@@ -9,12 +9,14 @@ sections:
             - display: arXiv
               url: https://arxiv.org/abs/1612.00548
               body:
-                - {_uid: BUY6Drn9e5,paper: "thhj",displayText: "pdf"}
+            - display: published
+              url: https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/topo.12182
+              body:
           journal: 
             - name: Journal of Topology
               url: https://londmathsoc.onlinelibrary.wiley.com/journal/17538424
               sep: "."
-              start: "Accepted for publication in "
+              start: "Published in "          
         - title: The Segal Conjecture for Topological Hochschild Homology of Ravenel spectra
           description: We solve the homotopy limit problem for topological Hochschild homology of Ravenel's spectra X(n) with respect to all cyclic groups of order a power of p. This implies that, after p-completion, topological negative cyclic homology and topological periodic cyclic homology of X(n) are homotopy equivalent.
           coauthors:  
@@ -26,7 +28,6 @@ sections:
             - display: arxiv
               url: https://arxiv.org/abs/1705.03343
               body:
-                 - {_uid: BUY6Drn9e4,paper: "segal",displayText: "pdf"}
             - display: published
               url: https://link.springer.com/article/10.1007%2Fs40062-021-00275-7
               body:
@@ -46,7 +47,6 @@ sections:
             - display: arXiv
               url: https://arxiv.org/abs/1612.00541
               body:
-                - {_uid: BUY6Drn9e1,paper: "thhmay",displayText: "pdf"}
             - display: published
               url: https://msp.org/agt/2018/18-5/p03.xhtml
               body:
