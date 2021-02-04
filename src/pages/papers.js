@@ -8,8 +8,6 @@ import ResearchStatement from "../components/research"
 import Limits from "../components/limits"
 import Kyn from "../components/kyn"
 import Beta from "../components/beta"
-import Segal from "../components/segal"
-import THHj from "../components/thhj"
 import THHMay from "../components/thhmay"
 import Reedy from "../components/reedy"
 import LieMay from "../components/liemay"
@@ -25,8 +23,6 @@ const Papers = {
   limits: Limits,
   kyn: Kyn,
   beta: Beta,
-  segal: Segal,
-  thhj: THHj,
   thhmay: THHMay,
   reedy: Reedy,
   liemay: LieMay,
