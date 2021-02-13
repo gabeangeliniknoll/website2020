@@ -97,13 +97,6 @@ sections:
       #       url: 
       #       body:
       #         - {_uid: KTY6Drn914,lecture: "aklecturefourteen",displayText: "pdf"}
-      # - title: "Lecture 15: Algebraic K-theory of finite fields"
-      #   links:
-      #     - display: 
-      #       url: 
-      #       body:
-      #         - {_uid: KTY6Drn915,lecture: "aklecturefifteen",displayText: "pdf"}
-          
   - title: Additional References
     lectures: 
       - title: "The K-book."
