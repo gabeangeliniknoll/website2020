@@ -17,7 +17,7 @@ import Aklectureten from "../components/aklectureten";
 import Aklectureeleven from "../components/aklectureeleven";
 import Aklecturetwelve from "../components/aklecturetwelve";
 import Aklecturethirteen from "../components/aklecturethirteen";
-// import Aklecturefourteen from "../components/aklecturefourteen";
+import Aklecturefourteen from "../components/aklecturefourteen";
 
 const Knotes = {
   complete: Complete,
@@ -33,8 +33,8 @@ const Knotes = {
   aklectureten: Aklectureten,
   aklectureeleven: Aklectureeleven,
   aklecturetwelve: Aklecturetwelve,
-  aklectureeleven: Aklecturethirteen,
-  // aklecturetwelve: Aklecturefourteen,
+  aklecturethirteen: Aklecturethirteen,
+  aklecturefourteen: Aklecturefourteen,
 };
 
 export default block => {
