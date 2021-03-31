@@ -1,7 +1,7 @@
 page: Research
 pageDescription: My work focuses on invariants of ring spectra that shed light on interactions with arithmetic and geometry. For more information about my research, see my 
 sections: 
-    - title: Published and Accepted Papers
+    - title: Published Papers
       papers: 
         - title: On topological Hochschild homology of the K(1)-local sphere  
           description: I compute mod (p,v_1) topological Hochschild homology of the connective cover of the K(1)-local sphere spectrum using the topological Hochschild-May spectral sequence.
