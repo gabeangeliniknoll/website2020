@@ -21,8 +21,8 @@ const Talks = () => (
     <h2>Invited Seminar talks</h2>
     <h3>2021</h3>
     <h4>May</h4>
-      <p>Real topological Hochschild homology, norms, and Witt vectors<br>
-         </br><font size="3">Topology Seminar, University of Warwick</font></p>
+      <p>Real topological Hochschild homology, norms and Witt vectors<br>
+         </br><font size="3">Algebraic Topology Seminar, University of Warwick</font></p>
     <h3>2020</h3>
     <h4>April</h4>
 			<p>Morava K-theory of algebraic K-theory and topological periodic cyclic homology<br>
