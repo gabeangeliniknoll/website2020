@@ -62,8 +62,8 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2104.07306
-              body:
-                 - {_uid: BUY6Drn9e3,paper: "kyn",displayText: "pdf"}
+              # body:
+              #    - {_uid: BUY6Drn9e3,paper: "cotp",displayText: "pdf"}
         - title: Chromatic complexity of algebraic K-theory of y(n)
           description: We compute Morava K-theory of topological periodic cyclic homology and topological negative cyclic homology of the Thom spectra y(n). This gives evidence for a version of the red-shift conjecture for topological periodic cyclic homology at all chromatic heights.
           coauthors: 
@@ -74,8 +74,8 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/1908.09164
-              body:
-                 - {_uid: BUY6Drn9e4,paper: "kyn",displayText: "pdf"}
+              # body:
+              #    - {_uid: BUY6Drn9e4,paper: "kyn",displayText: "pdf"}
         - title: Commuting unbounded homotopy limits with Morava K-theory
           description: We give conditions for Morava K-theory to commute with certain homotopy limits with an eye towards applications to topoligical periodic cyclic homology and algebraic K-theory. As our application, we a version of Mitchell's theorem for truncated Brown-Peterson spectra.
           coauthors:  
@@ -86,15 +86,15 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2003.03510
-              body:
-                 - {_uid: BUY6Drn9e5,paper: "limits",displayText: "pdf"}
+              # body:
+              #    - {_uid: BUY6Drn9e5,paper: "limits",displayText: "pdf"}
         - title: Detecting the beta family in iterated algebraic K-theory of finite fields
           description: I prove that the beta family is detected in iterated algebraic K-theory of finite fields and consequently iterated algebraic K-theory of the integers. This gives evidence for a higher chromatic height version of the Lichtenbaum conjecture, which I call the Greek-letter-family red-shift conjecture, after the red-shift conjecture of Ausoni-Rognes.
           links:
             - display: arXiv
               url: https://arxiv.org/abs/1612.00548
-              body:
-                - {_uid: BUY6Drn9e6,paper: "beta",displayText: "pdf"}
+              # body:
+              #   - {_uid: BUY6Drn9e6,paper: "beta",displayText: "pdf"}
     - title: Papers in preparation
       papers:
         - title: Topological Hochschild homology of the second truncated Brown-Peterson spectrum
@@ -142,8 +142,8 @@ sections:
           links:
             - display: arXiv
               url: https://arxiv.org/abs/1611.06215
-              body:
-                - {_uid: BUY6Drn9e7,paper: "reedy",displayText: "pdf"}
+              # body:
+              #   - {_uid: BUY6Drn9e7,paper: "reedy",displayText: "pdf"}
         - title: K(n)-local homotopy groups via Lie algebra cohomology 
           description: I compute the homotopy groups of the K(1)-local mod p Moore spectrum at odd primes in order to illustrate a method that can be used to compute K(n) local homotopy of more general type n complexes. This an expository article based on work of Doug Ravenel.
           links:
