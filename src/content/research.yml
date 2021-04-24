@@ -59,15 +59,11 @@ sections:
       papers: 
         - title: Complex orientations of TP of complete DVRs
           description: I give an explicit description of the height one formal group law associated to TP of a ring of integers in a finite extension of the p-adic rationals over a certain base ring.
-          coauthors: 
-            - name: 
-              url: 
-              sep: 
-              start: 
           links:
             - display: arXiv
               url: https://arxiv.org/abs/2104.07306
               body:
+                 - {_uid: BUY6Drn9e3,paper: "kyn",displayText: "pdf"}
         - title: Chromatic complexity of algebraic K-theory of y(n)
           description: We compute Morava K-theory of topological periodic cyclic homology and topological negative cyclic homology of the Thom spectra y(n). This gives evidence for a version of the red-shift conjecture for topological periodic cyclic homology at all chromatic heights.
           coauthors: 
