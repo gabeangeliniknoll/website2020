@@ -19,12 +19,11 @@ const Talks = () => (
     <SEO title="Talks" />
     <h1>Talks</h1>
     <h2>Invited Seminar talks</h2>
+    <h3>2021</h3>
+    <h4>May</h4>
+      <p>Real topological Hochschild homology, norms and Witt vectors<br>
+         </br><font size="3">Algebraic Topology Seminar, University of Warwick</font></p>
     <h3>2020</h3>
-    <h4>Rescheduled due to COVID-19 outbreak TBD</h4>
-      <p>Morava K-theory of algebraic K-theory and topological periodic cyclic homology<br>
-        </br><font size="3">Topology Seminar, Universit<span>&#228;</span>t Hamburg </font></p>
-			<p>Periodicity in iterated algebraic K-theory of finite fields<br>
-        </br><font size="3">Geometry and Topology Seminar, University of Pennsilvania</font></p>
     <h4>April</h4>
 			<p>Morava K-theory of algebraic K-theory and topological periodic cyclic homology<br>
 				</br><font size="3">Topology Seminar, <span>&#201;</span>cole polytechnique f<span>&#233;</span>d<span>&#233;</span>rale de Lausanne , April 2020</font></p>
