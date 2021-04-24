@@ -16,7 +16,7 @@ const IndexPage = () => (
     <div style={{ float: `left`, maxWidth: `70%`, marginBottom: `1.45rem`}}>
     <p>I am a Postdoctoral Researcher at the <a href="https://www.mi.fu-berlin.de/math/groups/top/members/index.html">Freie Universit<span>&#228;</span>t Berlin</a>. Previously, I was a Postdoctoral Researcher at <a href="https://math.msu.edu">Michigan State University</a>. 
       I earned my PhD at <a href="https://clas.wayne.edu/math">Wayne State University</a> under the direction of <a href="https://clasprofiles.wayne.edu/profile/dy8211">Andrew Salch</a>.</p>
-    <p>Broadly, I study interactions between algebraic topology, arithmetic and geometry. Specifically, I am interested invariants of ring spectra, such as factorization homology, algebraic K-theory, and topological cyclic homology. I am most interested in how these invariants shed light on connections to zeta functions and modular forms on the arithmetic side and Floer homology theory on the geometric side.</p>
+    <p>Broadly, I study interactions between algebraic topology, arithmetic and geometry. Specifically, I am interested invariants of ring spectra, such as topological Hochschild homology, algebraic K-theory, and topological cyclic homology.</p>
 		<p>In addition to my research activity, I have had the opportunity to teach a broad range of courses, 
       mentor undergraduate research projects, and organize several conferences and seminars. For a more detailed description of my activities see my <CV />.</p>
     </div>
@@ -26,9 +26,9 @@ const IndexPage = () => (
     <div clear="both"></div>
     <div style={{ float: `left`, maxWidth: `100%`, marginBottom: `1.45rem`}}>
     <h2>Current Teaching</h2>
-      <p><b>19243901 Algebraic K-Theory</b><span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/2020ws_Algebraic-K-Theory.html">Course Website.</a><span> </span><Link to="/algebraicktheory">Course Notes.</Link> </p>
-      <p><b>19223811 Forschungsmodul: Topologie </b><span> </span>Equivariant stable homotopy theory.<span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/S_FM_Topologie_ws2020.html">Course Website.</a></p>
-      <p><b>Forschungsseminar Geometrie und Topologie</b><span> </span>Higher Symmetry.<span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020WS-geom.html">Course Website.</a></p>
+      <p><b>Pro-Seminar on Algebra - Symmetries</b><span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/PS-S_Algebra_So21.html">Course Website.</a><span> </span></p>
+      <p><b>19219401 Higher Algebra </b><span> </span>Equivariant stable homotopy theory.<span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021so_HigherAlgebra.html">Course Website.</a></p>
+      <p><b>Forschungsseminar Geometrie und Topologie</b><span> </span><a href="https://www.mi.fu-berlin.de/math/groups/top/research/FS-2021So-geom.html">Course Website.</a></p>
     <h2>Contact</h2>
     <h3>Pronouns:</h3>
       <p>He/Him/His</p>
