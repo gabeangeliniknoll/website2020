@@ -5,11 +5,11 @@ import React from "react";
 // Imported pdf files in order of appearance
 import CV from "../components/CV";
 import ResearchStatement from "../components/research"
-import Limits from "../components/limits"
-import Kyn from "../components/kyn"
-import Beta from "../components/beta"
-import THHMay from "../components/thhmay"
-import Reedy from "../components/reedy"
+// import Limits from "../components/limits"
+// import Kyn from "../components/kyn"
+// import Beta from "../components/beta"
+// import THHMay from "../components/thhmay"
+// import Reedy from "../components/reedy"
 import LieMay from "../components/liemay"
 import Masters from "../components/masters"
 import Quiver from "../components/quiver"
@@ -20,11 +20,11 @@ import Quiver from "../components/quiver"
 const Papers = {
   cv: CV,
   research: ResearchStatement,
-  limits: Limits,
-  kyn: Kyn,
-  beta: Beta,
-  thhmay: THHMay,
-  reedy: Reedy,
+  // limits: Limits,
+  // kyn: Kyn,
+  // beta: Beta,
+  // thhmay: THHMay,
+  // reedy: Reedy,
   liemay: LieMay,
   masters: Masters,
   quiver: Quiver,
