@@ -140,7 +140,6 @@ const Talks = () => (
         <h3>July</h3>
 			    <p>On the paper "Nilpotence and Stable Homotopy Theory II" [<PDF pdfFile={Nilpotence} displayText='pdf' />]<br>
 				    </br><font size="3">MSRI Summer School: Algebraic Topology, Guanajuato, Mexico</font></p>
-
   </Layout>
 )
 
