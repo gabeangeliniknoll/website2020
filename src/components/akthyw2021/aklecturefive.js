@@ -1,5 +1,5 @@
 import React from "react"
-import Aklecturefive from "../static/aklecturefive.pdf" // Tell webpack this JS file uses this pdf
+import Aklecturefive from "../../static/akthyw2021/aklecturefive.pdf" // Tell webpack this JS file uses this pdf
 
 const AlgebraicKtheory = () => (
   <>

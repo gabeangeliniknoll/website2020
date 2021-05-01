@@ -2,13 +2,10 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-// import PDF from "../components/pdf"
-
 import Knotes from "./knotes"
 
 // YAML Data file
 import YAMLData from "../content/knotes.yml"
-// import THHMay from "../static/thhmayssfinal.pdf"
 
 const Research = () => (
   <Layout>

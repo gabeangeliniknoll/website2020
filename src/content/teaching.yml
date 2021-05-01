@@ -4,11 +4,29 @@ section:
     university: 
       - title: Freie Universität Berlin
         courses: 
+          - semester: Summer 2021
+            class:  
+              - title: "Pro-semimar on Algebra - Symmetries"
+                description: A seminar on group actions and symmetries for undergraduate students.
+                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/PS-S_Algebra_So21.html
+                urldisplay: Course Website
+              - title: "Higher Algebra"
+                description: A course on higher categories and higher operads.  Led exercise sessions for Prof. Dr. Holger Reich.
+                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2021so_HigherAlgebra.html
+                urldisplay: Course Website
+              - title: "Forschungsseminar Geometrie und Topologie"
+                description: A research seminar with internal speakers and visiting speakers. 
+                url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2021So-geom.html
+                urldisplay: Course Website
+  - title: Past 
+    university: 
+      - title: Freie Universität Berlin
+        courses:
           - semester: Winter 2020/21
             class: 
               - title: "Algebraic K-Theory"
                 description: A course on algebraic K-theory, fundamental theorems, and applications for graduate students.
-                url: https://www.mi.fu-berlin.de/math/groups/top/Lehre/2020ws_Algebraic-K-Theory.html
+                url: https://www.gangeliniknoll.com/algebraicktheory/
                 urldisplay: Course Website
               - title: "Forschungsmodul Topologie: Equivariant stable homotopy theory"
                 description: A seminar course introducing equivariant stable homotopy theory. Organizing with Prof. Dr. Elmar Vogt.
@@ -18,10 +36,6 @@ section:
                 description: A research seminar on equivariant homotopy theory and higher categories.
                 url: https://www.mi.fu-berlin.de/math/groups/top/research/FS-2020WS-geom.html
                 urldisplay: Course Website
-  - title: Past 
-    university: 
-      - title: Freie Universität Berlin
-        courses:
           - semester: Summer 2020
             class: 
               - title: "Aufbaumodul: Topologie III"

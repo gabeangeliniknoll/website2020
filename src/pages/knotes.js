@@ -3,21 +3,21 @@ import React from "react";
 // import PDF from "../components/pdf"
 
 // Imported pdf files in order of appearance
-import Complete from "../components/complete";
-import Aklectureone from "../components/aklectureone";
-import Aklecturetwo from "../components/aklecturetwo";
-import Aklecturethree from "../components/aklecturethree";
-import Aklecturefour from "../components/aklecturefour";
-import Aklecturefive from "../components/aklecturefive";
-import Aklecturesix from "../components/aklecturesix";
-import Aklectureseven from "../components/aklectureseven";
-import Aklectureeight from "../components/aklectureeight";
-import Aklecturenine from "../components/aklecturenine";
-import Aklectureten from "../components/aklectureten";
-import Aklectureeleven from "../components/aklectureeleven";
-import Aklecturetwelve from "../components/aklecturetwelve";
-import Aklecturethirteen from "../components/aklecturethirteen";
-import Aklecturefourteen from "../components/aklecturefourteen";
+import Complete from "../components/akthyw2021/complete";
+import Aklectureone from "../components/akthyw2021/aklectureone";
+import Aklecturetwo from "../components/akthyw2021/aklecturetwo";
+import Aklecturethree from "../components/akthyw2021/aklecturethree";
+import Aklecturefour from "../components/akthyw2021/aklecturefour";
+import Aklecturefive from "../components/akthyw2021/aklecturefive";
+import Aklecturesix from "../components/akthyw2021/aklecturesix";
+import Aklectureseven from "../components/akthyw2021/aklectureseven";
+import Aklectureeight from "../components/akthyw2021/aklectureeight";
+import Aklecturenine from "../components/akthyw2021/aklecturenine";
+import Aklectureten from "../components/akthyw2021/aklectureten";
+import Aklectureeleven from "../components/akthyw2021/aklectureeleven";
+import Aklecturetwelve from "../components/akthyw2021/aklecturetwelve";
+import Aklecturethirteen from "../components/akthyw2021/aklecturethirteen";
+import Aklecturefourteen from "../components/akthyw2021/aklecturefourteen";
 
 const Knotes = {
   complete: Complete,
