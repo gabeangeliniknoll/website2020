@@ -57,6 +57,17 @@ sections:
               start: "Published in "
     - title: Submitted Papers
       papers: 
+        - title: Topological Hochschild homology of the second truncated Brown-Peterson spectrum I
+          description: We compute topological Hochschild homology of forms of the second truncated Brown-Peterson spectrum with coefficients in connective Morava K-theory. We also compute topological Hochschild homology of forms of arbitrary truncated Brown-Peterson spectra with coefficients in the p-local integers.
+          coauthors: 
+            - name: Dominic Culver
+              url: https://dlculver.github.io/
+              sep: " and" 
+              start: "Joint with "
+            - name: Eva Höning
+              url: https://evahoening.netlify.app
+              sep: "."
+              start: ""
         - title: Complex orientations of TP of complete DVRs
           description: I give an explicit description of the height one formal group law associated to TP of a ring of integers in a finite extension of the p-adic rationals over a certain base ring.
           links:
@@ -97,7 +108,7 @@ sections:
               #   - {_uid: BUY6Drn9e6,paper: "beta",displayText: "pdf"}
     - title: Papers in preparation
       papers:
-        - title: Topological Hochschild homology of the second truncated Brown-Peterson spectrum
+        - title: Topological Hochschild homology of the second truncated Brown-Peterson spectrum II
           description: We compute topological Hochschild homology of the second truncated Brown-Peterson spectrum with coefficients in the first truncated Brown-Peterson spectrum.
           coauthors: 
             - name: Dominic Culver
