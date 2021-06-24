@@ -68,6 +68,9 @@ sections:
               url: https://evahoening.netlify.app
               sep: "."
               start: ""
+          links:
+            - display: arXiv
+              url: https://arxiv.org/abs/2106.06785
         - title: Complex orientations of TP of complete DVRs
           description: I give an explicit description of the height one formal group law associated to TP of a ring of integers in a finite extension of the p-adic rationals over a certain base ring.
           links:
