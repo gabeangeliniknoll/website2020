@@ -76,7 +76,7 @@ const Talks = () => (
       <h2>Invited Conference Talks</h2>
         <h3>2020</h3>
           <h4>March</h4>
-            <p>Chromatic homotopy theory and Algebriac K-theor [<PDF pdfFile={Redshift} displayText='pdf' />]<br>
+            <p>Algebraic K-theory and chromatic homotopy theory [<PDF pdfFile={Redshift} displayText='pdf' />]<br>
               </br><font size="3">Equivariant techniques in stable homotopy theory, American Institute of Mathematics, San Jose, California</font></p>
           <h4>March</h4>
             <p>Equivariant Witt vectors, Real topological Hochschild homology, and norms<br>
