@@ -9,8 +9,8 @@ import PDF from "../components/pdf"
 import Loday from "../static/Lodayfunctorcats.pdf"  
 import Fundamental from "../static/FTKthytalk.pdf"
 import Nilpotence from "../static/nilptalk.pdf"
-import Periodicity from "../static/periodicityinK-theory.pdf"
 import ProObjects from "../static/pro-object.pdf"
+import Redshift from "../static/redshift.pdf"
 import SnowFlake from "../static/snowflake.pdf"
 import Stacks from "../static/stacks.pdf"
 
@@ -63,7 +63,7 @@ const Talks = () => (
             <p>Periodic Phenomena in iterated algebraic K-theory of finite fields<br>
               </br><font size="3">Topology Seminar, Notre Dame</font></p>
           <h4>November</h4>
-            <p>Periodicity in iterated algebraic K-theory [<PDF pdfFile={Periodicity} displayText='pdf' />]<br/>
+            <p>Periodicity in iterated algebraic K-theory<br/>
             <font size="3">Geometry and Topology Seminar, Michigan State University</font></p>
             <p>Red-shift type phenomena in iterated algebraic K-theory of finite fields<br>
               </br><font size="3">Topology Seminar, Indiana University</font></p>
@@ -75,6 +75,9 @@ const Talks = () => (
               </br><font size="3">K-theory Seminar, Ohio State University</font></p>
       <h2>Invited Conference Talks</h2>
         <h3>2020</h3>
+          <h4>March</h4>
+            <p>Chromatic homotopy theory and Algebriac K-theor [<PDF pdfFile={Redshift} displayText='pdf' />]<br>
+              </br><font size="3">Equivariant techniques in stable homotopy theory, American Institute of Mathematics, San Jose, California</font></p>
           <h4>March</h4>
             <p>Equivariant Witt vectors, Real topological Hochschild homology, and norms<br>
               </br><font size="3">Equivariant homotopy theory and p-adic Hodge Theory Conference, Banff International Research Station</font></p>
